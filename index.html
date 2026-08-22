@@ -597,7 +597,29 @@
       margin-top: 2px;
       border-top: 1px solid var(--border);
     }
-    .region-panel-inner { grid-template-columns: 1fr; }
+    .region-panel { padding: 12px 16px 16px; }
+    .region-panel-inner {
+      grid-template-columns: 1fr;
+      gap: 0;
+      background: var(--surface-2);
+      border: 1px solid var(--border-strong);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+    .region-check {
+      padding: 11px 14px;
+      gap: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .region-check:last-child { border-bottom: none; }
+    .region-name {
+      flex: 1 1 auto;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .region-check .count { flex: none; }
 
     .dek { display: none; }
     .stat-strip { display: none; }
@@ -991,6 +1013,7 @@
     input.type = "checkbox";
 
     var nameSpan = document.createElement("span");
+    nameSpan.className = "region-name";
     nameSpan.textContent = reg;
 
     var count = DATA.filter(function (d) { return d.reg === reg; }).length;
