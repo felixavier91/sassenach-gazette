@@ -609,8 +609,7 @@
     tbody tr.row td:nth-child(6) { order: 7; flex: none; }
     tbody tr.row td:nth-child(6) .rating-num, tbody tr.row td:nth-child(6) .rating-none { display: inline-block; line-height: 16px; vertical-align: top; }
     tbody tr.row td:nth-child(7) { order: 8; flex: none; }
-    tbody tr.row td:nth-child(8) { order: 9; margin-left: auto; flex: none; max-width: 32vw; }
-    tbody tr.row td:nth-child(8) .pill { max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+    tbody tr.row td:nth-child(8) { display: none; }
     tbody tr.row td:nth-child(5)::before,
     tbody tr.row td:nth-child(6)::before,
     tbody tr.row td:nth-child(7)::before { content: "·"; margin-right: 8px; color: var(--muted); }
@@ -623,10 +622,15 @@
     td.name-cell .sub { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
     tbody tr.row:nth-child(even),
-    tbody tr.row:hover,
-    tbody tr.row.visited,
-    tbody tr.row.visited:hover,
-    tbody tr.row.pressing { background: none; }
+    tbody tr.row:hover { background: none; }
+
+    tbody tr.row.visited {
+      background: color-mix(in srgb, var(--accent) 16%, var(--surface));
+    }
+    tbody tr.row.visited:hover {
+      background: color-mix(in srgb, var(--accent) 20%, var(--surface));
+    }
+    tbody tr.row.pressing { background: color-mix(in srgb, var(--ink) 8%, var(--surface)); }
 
     tbody tr.row, tbody tr.row * {
       -webkit-user-select: none;
