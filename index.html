@@ -1270,10 +1270,20 @@
         }, LONG_PRESS_MS);
       }, { passive: true });
       row.addEventListener("touchmove", function (e) {
-        if (!pressTimer) return;
         var t = e.touches[0];
         if (!t) { cancelPress(); return; }
-        if (Math.abs(t.clientX - pressStartX) > 6 || Math.abs(t.clientY - pressStartY) > 6) cancelPress();
+        if (pressTimer) {
+          if (Math.abs(t.clientX - pressStartX) > 6 || Math.abs(t.clientY - pressStartY) > 6) cancelPress();
+          return;
+        }
+        if (longPressFired) {
+          var el = document.elementFromPoint(t.clientX, t.clientY);
+          var overRow = el && el.closest ? el.closest("tr.row") : null;
+          if (overRow && overRow !== row) {
+            longPressFired = false;
+            toggleVisited();
+          }
+        }
       }, { passive: true });
       row.addEventListener("touchend", cancelPress, { passive: true });
       row.addEventListener("touchcancel", cancelPress, { passive: true });
