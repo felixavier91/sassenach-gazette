@@ -13,6 +13,15 @@
 // hrfood1.csv/hrfood2.csv to refresh, then re-run this script to refresh dbpr_candidates_cleansed.json.
 //
 // Usage: node scripts/build_dbpr_candidates.js   (run from repo root)
+//
+// On "promising candidate" signals: Base Risk Level / Secondary Risk Level / Modifier
+// Code were evaluated and are NOT useful quality signals — Risk Level is a food-safety
+// prep-complexity classification (raw meat handling etc), not a popularity/quality one;
+// Burger King and a real full-service restaurant both land on "Risk Level 2". Modifier
+// Code is blank for virtually every row. The one real signal found: a trailing store
+// number in the name (see hasStoreNumber below) reliably flags franchise/chain locations
+// that CHAIN_KEYWORDS misses. Beyond structural filters like this, the CSV has no
+// popularity/rating field — actual "promise" only becomes visible from real web research.
 
 const fs = require('fs');
 const path = require('path');
@@ -55,6 +64,15 @@ function isChain(name) { const n = name.toLowerCase(); return CHAIN_KEYWORDS.som
 const NON_RESTAURANT_KEYWORDS = ['convention center','conference center','banquet','catering','cafeteria','employee','concession','vending','commissary','country club','golf club','yacht club','marriott','hilton','hyatt','westin','sheraton','embassy suites','courtyard by','hampton inn','holiday inn','doubletree','ritz-carlton','ritz carlton','four seasons','fairmont','regal ','amc ','cinemark','movie','theatre','theater','nursing','rehab','assisted living','hospital','school','elementary','middle school','high school','university','college','church','synagogue','stadium','arena','airport','jai alai','clubhouse','condo','condominium','hoa ','homeowners','food hall','sodexo','aramark'];
 function isNonRestaurant(name) { const n = name.toLowerCase(); return NON_RESTAURANT_KEYWORDS.some(k => n.includes(k)); }
 
+// Franchise/multi-unit store numbering (e.g. "Burger King #6", "McDonald's 1108") is a
+// strong signal of a chain location that CHAIN_KEYWORDS may not catch (unlisted chains,
+// franchisees). ~10.5% of active SEAT rows match this pattern. Ordinals like "41st" are
+// excluded so street-address fragments accidentally in a name don't false-positive.
+function hasStoreNumber(name) {
+  const t = name.trim();
+  return /#\s*\d+\s*$/.test(t) || (/\b\d{2,5}\s*$/.test(t) && !/\d(st|nd|rd|th)$/i.test(t));
+}
+
 function titleCase(s) {
   if (!s) return s;
   return s.toLowerCase().replace(/\b([a-z0-9])/g, m => m.toUpperCase());
@@ -88,7 +106,7 @@ function run() {
       if (!['SEAT','NOST','CATR','MFDV'].includes(rank)) continue;
       if (status !== '20') continue;
       const name = f[idx['Business Name']];
-      if (!name || isChain(name) || isNonRestaurant(name)) continue;
+      if (!name || isChain(name) || isNonRestaurant(name) || hasStoreNumber(name)) continue;
       const city = (f[idx['Location City']] || '').trim().toUpperCase();
       const region = cityToRegion[city];
       if (!region) continue; // only keep rows whose city directly maps to an existing curated region

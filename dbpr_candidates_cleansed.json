@@ -522,15 +522,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Haagen Dazs Ice Cream #604",
-    "a": "1451 Ocean Dr Ste 101",
-    "c": "Miami Beach, FL 33139",
-    "ph": "3826718",
-    "reg": "Miami Beach",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Finnegans Way",
     "a": "1344 Ocean Dr",
     "c": "Miami Beach, FL 33139",
@@ -680,15 +671,6 @@
     "c": "North Miami, FL 33161-4951",
     "ph": "(305) 891-3414",
     "reg": "North Miami",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Little Caesar'S Pizza #232",
-    "a": "4100 W 12 Ave Bay C",
-    "c": "Hialeah, FL 33012",
-    "ph": "(305) 362-7771",
-    "reg": "Hialeah",
     "seats": 0,
     "rank": "NOST"
   },
@@ -891,15 +873,6 @@
     "rank": "NOST"
   },
   {
-    "n": "P F Chang'S China Bistro #2000",
-    "a": "17455 Biscayne Blvd",
-    "c": "Miami Beach, FL 33160",
-    "ph": "9571966",
-    "reg": "Miami Beach",
-    "seats": 220,
-    "rank": "SEAT"
-  },
-  {
     "n": "Essensia",
     "a": "3025 Collins Ave",
     "c": "Miami Beach, FL 33140",
@@ -945,60 +918,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #18",
-    "a": "1454 Alton Rd",
-    "c": "Miami Beach, FL 33139-3828",
-    "ph": "(305) 672-8888",
-    "reg": "Miami Beach",
-    "seats": 72,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical 11",
-    "a": "2490 W 60 St",
-    "c": "Hialeah, FL 33016-4472",
-    "ph": "(305) 828-2032",
-    "reg": "Hialeah",
-    "seats": 82,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #10",
-    "a": "16495 Nw 67 Ave",
-    "c": "Miami Lakes, FL 33014",
-    "ph": "(305) 821-3858",
-    "reg": "Miami Lakes",
-    "seats": 152,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #15",
-    "a": "11806 Biscayne Blvd",
-    "c": "North Miami, FL 33181-3112",
-    "ph": "(305) 893-1812",
-    "reg": "North Miami",
-    "seats": 102,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #7",
-    "a": "1785 Ne 163 St",
-    "c": "North Miami Beach, FL 33162-4732",
-    "ph": "(305) 949-9032",
-    "reg": "North Miami Beach",
-    "seats": 100,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #39",
-    "a": "1592 W 49 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "5560459",
-    "reg": "Hialeah",
-    "seats": 110,
-    "rank": "SEAT"
-  },
-  {
     "n": "Rosinella",
     "a": "525 Lincoln Rd",
     "c": "Miami Beach, FL 33139",
@@ -1014,15 +933,6 @@
     "ph": "4618360",
     "reg": "Coral Gables",
     "seats": 229,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Reys Pizza #10",
-    "a": "1050 E 8 Ave",
-    "c": "Hialeah, FL 33010",
-    "ph": "(305) 805-9959",
-    "reg": "Hialeah",
-    "seats": 48,
     "rank": "SEAT"
   },
   {
@@ -1042,15 +952,6 @@
     "reg": "Hialeah",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Reys Pizza #2",
-    "a": "2908 W 3 Ave",
-    "c": "Hialeah, FL 33012-5301",
-    "ph": "(305) 887-3762",
-    "reg": "Hialeah",
-    "seats": 84,
-    "rank": "SEAT"
   },
   {
     "n": "Katana Rest",
@@ -1086,15 +987,6 @@
     "ph": "(305) 266-4441",
     "reg": "Bal Harbour",
     "seats": 30,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Main Kitchen #2",
-    "a": "1901 Convention Center Dr",
-    "c": "Miami Beach, FL 33139-1820",
-    "ph": "(305) 672-0006",
-    "reg": "Miami Beach",
-    "seats": 200,
     "rank": "SEAT"
   },
   {
@@ -1332,24 +1224,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Einstein Bros Bagels #780",
-    "a": "1500 Alton Rd",
-    "c": "Miami Beach, FL 33139",
-    "ph": "5344003",
-    "reg": "Miami Beach",
-    "seats": 42,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagels #3679",
-    "a": "7970 Nw 154 St",
-    "c": "Miami Lakes, FL 33016",
-    "ph": "(305) 827-1888",
-    "reg": "Miami Lakes",
-    "seats": 34,
-    "rank": "SEAT"
-  },
-  {
     "n": "George'S",
     "a": "300 72 St",
     "c": "Miami Beach, FL 33141",
@@ -1392,15 +1266,6 @@
     "ph": "(206) 454-5554",
     "reg": "Coral Gables",
     "seats": 163,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #38",
-    "a": "2350 Sw 37 Ave",
-    "c": "Coral Gables, FL 33134",
-    "ph": "4611915",
-    "reg": "Coral Gables",
-    "seats": 76,
     "rank": "SEAT"
   },
   {
@@ -1530,15 +1395,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Prime 112",
-    "a": "112 Ocean Drive",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 467-3712",
-    "reg": "Miami Beach",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
     "n": "Guadalajara Mexican Restaurant",
     "a": "8461 Sw 132 St",
     "c": "Kendall, FL 33156",
@@ -1635,15 +1491,6 @@
     "ph": "N/A",
     "reg": "Miami Beach",
     "seats": 40,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #71",
-    "a": "17084 Collins Ave",
-    "c": "Sunny Isles Beach, FL 33160",
-    "ph": "(305) 558-4124",
-    "reg": "Sunny Isles Beach",
-    "seats": 90,
     "rank": "SEAT"
   },
   {
@@ -2196,15 +2043,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Mareva 1939",
-    "a": "1677 Collins Ave",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 532-2311",
-    "reg": "Miami Beach",
-    "seats": 92,
-    "rank": "SEAT"
-  },
-  {
     "n": "Rancho Okeechobee West Inc",
     "a": "17015 W Okeechobee Rd",
     "c": "Hialeah, FL 33018",
@@ -2232,39 +2070,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "International House Of Pancakes 36-11",
-    "a": "6928 Collins Ave",
-    "c": "Miami Beach, FL 33141-3206",
-    "ph": "(305) 866-8961",
-    "reg": "Miami Beach",
-    "seats": 84,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-01",
-    "a": "1101 Ne 163 St",
-    "c": "North Miami Beach, FL 33162-4502",
-    "ph": "(305) 940-1691",
-    "reg": "North Miami Beach",
-    "seats": 67,
-    "rank": "SEAT"
-  },
-  {
     "n": "Prime Italian",
     "a": "101 Ocean Drive",
     "c": "Miami Beach, FL 33139",
     "ph": "(305) 695-8484",
     "reg": "Miami Beach",
     "seats": 203,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Latin Cafe 2000",
-    "a": "1192 W 49 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "(305) 820-1919",
-    "reg": "Hialeah",
-    "seats": 90,
     "rank": "SEAT"
   },
   {
@@ -2313,15 +2124,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Cart 416",
-    "a": "601 Biscayne Blvd",
-    "c": "Miami Beach, FL 33132",
-    "ph": "(407) 810-6239",
-    "reg": "Miami Beach",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Caribe Latin Food",
     "a": "1750 W 68 St",
     "c": "Hialeah, FL 33014",
@@ -2347,15 +2149,6 @@
     "reg": "Miami Beach",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Prime 54",
-    "a": "4441 Collins Ave",
-    "c": "Miami Beach, FL 33140",
-    "ph": "(305) 663-8182",
-    "reg": "Miami Beach",
-    "seats": 333,
-    "rank": "SEAT"
   },
   {
     "n": "Bleau Bar",
@@ -2718,15 +2511,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Fleming'S Prime Steakhouse #2005",
-    "a": "2525 Ponce De Leon Blvd",
-    "c": "Coral Gables, FL 33134",
-    "ph": "(305) 569-7995",
-    "reg": "Coral Gables",
-    "seats": 200,
-    "rank": "SEAT"
-  },
-  {
     "n": "Prime Lounge",
     "a": "100 Ocean Drive",
     "c": "Miami Beach, FL 33139",
@@ -3042,30 +2826,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "Bk 17402",
-    "a": "1101 Washington Ave",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 378-3859",
-    "reg": "Miami Beach",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
     "n": "Menchies Frozen Yogurt",
     "a": "7309 Miamia Lakes Dr",
     "c": "Miami Lakes, FL 33014",
     "ph": "(305) 557-5755",
     "reg": "Miami Lakes",
     "seats": 45,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Havana 1957",
-    "a": "1446 Washington Ave",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(786) 298-9642",
-    "reg": "Miami Beach",
-    "seats": 100,
     "rank": "SEAT"
   },
   {
@@ -3300,15 +3066,6 @@
     "ph": "(786) 712-3498",
     "reg": "North Miami",
     "seats": 16,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #109",
-    "a": "12000 Nw 7th Avenue",
-    "c": "North Miami, FL 33168",
-    "ph": "(305) 671-1258",
-    "reg": "North Miami",
-    "seats": 77,
     "rank": "SEAT"
   },
   {
@@ -3771,15 +3528,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Havana 1957",
-    "a": "819 Lincoln Road",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 397-8683",
-    "reg": "Miami Beach",
-    "seats": 161,
-    "rank": "SEAT"
-  },
-  {
     "n": "Lola Restaurant & Grill",
     "a": "5555 Collins Ave",
     "c": "Miami Beach, FL 33140",
@@ -3804,15 +3552,6 @@
     "ph": "(786) 246-6984",
     "reg": "Miami Beach",
     "seats": 56,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagels #3609",
-    "a": "9690 Nw 41 St",
-    "c": "Doral, FL 33178",
-    "ph": "(786) 245-2583",
-    "reg": "Doral",
-    "seats": 69,
     "rank": "SEAT"
   },
   {
@@ -4257,30 +3996,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #128",
-    "a": "7845 N. Hialeah Gardens Blvd.",
-    "c": "Hialeah, FL 33018",
-    "ph": "(305) 821-8535",
-    "reg": "Hialeah",
-    "seats": 73,
-    "rank": "SEAT"
-  },
-  {
     "n": "Dynasty Buffet",
     "a": "1656 Ne Miami Gardens Dr",
     "c": "North Miami Beach, FL 33179",
     "ph": "(305) 919-7705",
     "reg": "North Miami Beach",
     "seats": 180,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #148",
-    "a": "20403 Biscayne Blvd",
-    "c": "Aventura, FL 33180",
-    "ph": "(407) 948-0839",
-    "reg": "Aventura",
-    "seats": 73,
     "rank": "SEAT"
   },
   {
@@ -4569,15 +4290,6 @@
     "ph": "(786) 216-7150",
     "reg": "Miami Beach",
     "seats": 18,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Korner 67",
-    "a": "6769 Main St",
-    "c": "Miami Lakes, FL 33014",
-    "ph": "(786) 258-3713",
-    "reg": "Miami Lakes",
-    "seats": 150,
     "rank": "SEAT"
   },
   {
@@ -4932,15 +4644,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Restaurant Colobian Food Ruta 75",
-    "a": "8200 W 33 Ave  Bay 3",
-    "c": "Hialeah, FL 33018",
-    "ph": "(954) 937-0092",
-    "reg": "Hialeah",
-    "seats": 58,
-    "rank": "SEAT"
-  },
-  {
     "n": "Crema Gourmet Espresso Bar",
     "a": "169 Miracle Mile",
     "c": "Coral Gables, FL 33134",
@@ -5067,15 +4770,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #190",
-    "a": "825 E 49 St",
-    "c": "Hialeah, FL 33013",
-    "ph": "(407) 948-0839",
-    "reg": "Hialeah",
-    "seats": 70,
-    "rank": "SEAT"
-  },
-  {
     "n": "Bistro Towerhouse",
     "a": "5500 Collins Ave",
     "c": "Miami Beach, FL 33140",
@@ -5155,15 +4849,6 @@
     "reg": "Coral Gables",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Tap 42",
-    "a": "301  Giralda Avenue",
-    "c": "Coral Gables, FL 33134",
-    "ph": "(407) 730-5571",
-    "reg": "Coral Gables",
-    "seats": 265,
-    "rank": "SEAT"
   },
   {
     "n": "Los Parrilleros",
@@ -5337,15 +5022,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Parrilla @ 12",
-    "a": "1255 Washington Ave",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 532-7599",
-    "reg": "Miami Beach",
-    "seats": 65,
-    "rank": "SEAT"
-  },
-  {
     "n": "Dona Empanada",
     "a": "10822 Nw 58 St",
     "c": "Doral, FL 33178",
@@ -5370,24 +5046,6 @@
     "ph": "(305) 500-9019",
     "reg": "Sweetwater",
     "seats": 80,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Seasons 52 #4509",
-    "a": "321 Miracle Mile",
-    "c": "Coral Gables, FL 33134",
-    "ph": "(305) 442-8552",
-    "reg": "Coral Gables",
-    "seats": 323,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Merkado 31",
-    "a": "1127 Ne 163 St",
-    "c": "North Miami Beach, FL 33162",
-    "ph": "(305) 494-8308",
-    "reg": "North Miami Beach",
-    "seats": 72,
     "rank": "SEAT"
   },
   {
@@ -5571,15 +5229,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Havana 1957",
-    "a": "1410 Ocean Drive # Cu 01",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 604-9060",
-    "reg": "Miami Beach",
-    "seats": 92,
-    "rank": "SEAT"
-  },
-  {
     "n": "Compass One",
     "a": "3655 Nw 87 Ave",
     "c": "Doral, FL 33178",
@@ -5668,15 +5317,6 @@
     "reg": "Hialeah",
     "seats": 0,
     "rank": "CATR"
-  },
-  {
-    "n": "Central Park Food Station #2",
-    "a": "10771 Nw 58 St",
-    "c": "Doral, FL 33178",
-    "ph": "(786) 621-0880",
-    "reg": "Doral",
-    "seats": 26,
-    "rank": "SEAT"
   },
   {
     "n": "Necessary Purveyor",
@@ -5775,15 +5415,6 @@
     "ph": "(305) 251-4848",
     "reg": "Pinecrest",
     "seats": 80,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Copper 29",
-    "a": "206 Miracle Mile",
-    "c": "Coral Gables, FL 33134",
-    "ph": "(786) 296-5729",
-    "reg": "Coral Gables",
-    "seats": 63,
     "rank": "SEAT"
   },
   {
@@ -5940,15 +5571,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical 236",
-    "a": "7401 W 4 Ave",
-    "c": "Hialeah, FL 33014",
-    "ph": "(786) 221-0643",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Barra Ristorante",
     "a": "3755 Nw 78 Ave",
     "c": "Doral, FL 33166",
@@ -5974,15 +5596,6 @@
     "reg": "Bal Harbour",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Cut 38",
-    "a": "18090 Collins Avenue # T-26",
-    "c": "Sunny Isles Beach, FL 33160",
-    "ph": "(305) 933-7080",
-    "reg": "Sunny Isles Beach",
-    "seats": 200,
-    "rank": "SEAT"
   },
   {
     "n": "Plymouth Hotel",
@@ -6126,15 +5739,6 @@
     "ph": "(305) 935-6777",
     "reg": "Aventura",
     "seats": 48,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Yuca 105",
-    "a": "1555 Washington Ave Units 1 2 3",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 519-7331",
-    "reg": "Miami Beach",
-    "seats": 175,
     "rank": "SEAT"
   },
   {
@@ -6372,15 +5976,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Carrot 770",
-    "a": "9519 Harding Ave",
-    "c": "Surfside, FL 33154",
-    "ph": "(786) 216-7355",
-    "reg": "Surfside",
-    "seats": 16,
-    "rank": "SEAT"
-  },
-  {
     "n": "Sea Grill",
     "a": "4250 Salzedo St #1425",
     "c": "Coral Gables, FL 33146",
@@ -6433,24 +6028,6 @@
     "reg": "Hialeah",
     "seats": 58,
     "rank": "SEAT"
-  },
-  {
-    "n": "Laz Lunch Truck #1",
-    "a": "196 W 25 St",
-    "c": "Hialeah, FL 33010",
-    "ph": "(786) 553-5455",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
-    "n": "Laz Lunch Truck #2",
-    "a": "196 W 25 St",
-    "c": "Hialeah, FL 33010",
-    "ph": "(786) 553-5455",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "Me Sabe A Peru",
@@ -6705,15 +6282,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Cicis Pizza 749",
-    "a": "410 W 49 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "(305) 822-5151",
-    "reg": "Hialeah",
-    "seats": 184,
-    "rank": "SEAT"
-  },
-  {
     "n": "Prima Classe",
     "a": "842 1 St Unit G",
     "c": "Miami Beach, FL 33139",
@@ -6783,15 +6351,6 @@
     "ph": "(786) 409-6898",
     "reg": "Miami Lakes",
     "seats": 85,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Tap 42",
-    "a": "19501 Biscayne Blvd  Ste 1960",
-    "c": "Aventura, FL 33180",
-    "ph": "N/A",
-    "reg": "Aventura",
-    "seats": 298,
     "rank": "SEAT"
   },
   {
@@ -6975,15 +6534,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Fetta Republic #2",
-    "a": "20475 Biscayne Blvd Unit G15",
-    "c": "Aventura, FL 33180",
-    "ph": "(305) 650-1098",
-    "reg": "Aventura",
-    "seats": 36,
-    "rank": "SEAT"
-  },
-  {
     "n": "Serafina",
     "a": "19501 Biscayne Blvd Unit 1944",
     "c": "Aventura, FL 33180",
@@ -7089,15 +6639,6 @@
     "ph": "N/A",
     "reg": "Hialeah",
     "seats": 30,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Cmx Dolphin Mall 19",
-    "a": "11401 Nw 12 St 0100",
-    "c": "Sweetwater, FL 33172",
-    "ph": "(305) 591-9380",
-    "reg": "Sweetwater",
-    "seats": 193,
     "rank": "SEAT"
   },
   {
@@ -7350,24 +6891,6 @@
     "ph": "(786) 823-5645",
     "reg": "Aventura",
     "seats": 18,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Salumeria 104",
-    "a": "117 Miracle Mile",
-    "c": "Coral Gables, FL 33134",
-    "ph": "(305) 532-1233",
-    "reg": "Coral Gables",
-    "seats": 120,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Nueva San Salvador Restaurant #1",
-    "a": "944 Hialeah Dr",
-    "c": "Hialeah, FL 33010",
-    "ph": "(305) 418-0944",
-    "reg": "Hialeah",
-    "seats": 50,
     "rank": "SEAT"
   },
   {
@@ -7827,15 +7350,6 @@
     "ph": "(305) 406-1606",
     "reg": "Doral",
     "seats": 32,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #254",
-    "a": "13425 S Dixie Hwy",
-    "c": "Pinecrest, FL 33156",
-    "ph": "(786) 522-3935",
-    "reg": "Pinecrest",
-    "seats": 68,
     "rank": "SEAT"
   },
   {
@@ -8415,15 +7929,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Tap 42",
-    "a": "3535 Nw 83 Ave Suite 101",
-    "c": "Doral, FL 33166",
-    "ph": "(305) 607-9827",
-    "reg": "Doral",
-    "seats": 206,
-    "rank": "SEAT"
-  },
-  {
     "n": "La Sandwicherie",
     "a": "7349 Collins Ave",
     "c": "Miami Beach, FL 33141",
@@ -8926,15 +8431,6 @@
     "reg": "Coral Gables",
     "seats": 36,
     "rank": "SEAT"
-  },
-  {
-    "n": "Salim Box Lunch #2",
-    "a": "233 W 28 St",
-    "c": "Hialeah, FL 33010",
-    "ph": "(407) 535-5761",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "La Granja Chicken Steak And Seafood",
@@ -9747,15 +9243,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Marathon 168",
-    "a": "8200 Nw 25 St",
-    "c": "Doral, FL 33122",
-    "ph": "(786) 451-8227",
-    "reg": "Doral",
-    "seats": 20,
-    "rank": "SEAT"
-  },
-  {
     "n": "El Tamalito Cubano Restaurant",
     "a": "1093-1095 W 29 St",
     "c": "Hialeah, FL 33012",
@@ -9918,15 +9405,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Sabrozo #2",
-    "a": "1004 E 16 St",
-    "c": "Hialeah, FL 33010",
-    "ph": "(786) 991-5979",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Cachita Cuban Cusine Corp",
     "a": "1116  Normandy Dr ",
     "c": "Miami Beach, FL 33141",
@@ -9970,15 +9448,6 @@
     "reg": "Miami Lakes",
     "seats": 30,
     "rank": "SEAT"
-  },
-  {
-    "n": "Rudy Box Lunch # 3",
-    "a": "229 W 28 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "(786) 521-8057",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "Porto Alegre Brazilian Grill Restaurant",
@@ -10773,15 +10242,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pa'Que Tiby 107",
-    "a": "3655 Nw 107  Ave Ste 102",
-    "c": "Doral, FL 33178",
-    "ph": "(954) 695-4317",
-    "reg": "Doral",
-    "seats": 45,
-    "rank": "SEAT"
-  },
-  {
     "n": "Tropical Smoothie Cafe",
     "a": "14500 Biscayne Blvd",
     "c": "North Miami Beach, FL 33181",
@@ -10805,15 +10265,6 @@
     "c": "Palmetto Bay, FL 33157",
     "ph": "(305) 979-6793",
     "reg": "Palmetto Bay",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Sunlife Organics 17",
-    "a": "1614 Alton Rd Ste 101",
-    "c": "Miami Beach, FL 33139",
-    "ph": "(305) 763-8124",
-    "reg": "Miami Beach",
     "seats": 0,
     "rank": "NOST"
   },
@@ -10878,15 +10329,6 @@
     "ph": "(917) 306-2171",
     "reg": "Doral",
     "seats": 30,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Just Salad Store #54",
-    "a": "2346 Ponce De Leon Blvd",
-    "c": "Coral Gables, FL 33134-5420",
-    "ph": "(314) 277-3575",
-    "reg": "Coral Gables",
-    "seats": 14,
     "rank": "SEAT"
   },
   {
@@ -10977,15 +10419,6 @@
     "ph": "(305) 302-8581",
     "reg": "Hialeah",
     "seats": 65,
-    "rank": "SEAT"
-  },
-  {
-    "n": "First Watch Restaurant #0499",
-    "a": "3737 Nw 87th Ave Ste 108",
-    "c": "Doral, FL 33166",
-    "ph": "(786) 926-5120",
-    "reg": "Doral",
-    "seats": 161,
     "rank": "SEAT"
   },
   {
@@ -11283,15 +10716,6 @@
     "ph": "(786) 810-0184",
     "reg": "Aventura",
     "seats": 330,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Just Salad Store #60",
-    "a": "11725 S Dixie Hwy",
-    "c": "Pinecrest, FL 33156",
-    "ph": "(314) 277-3575",
-    "reg": "Pinecrest",
-    "seats": 18,
     "rank": "SEAT"
   },
   {
@@ -12339,15 +11763,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Tropical Silver 2022",
-    "a": "1230 W 44 Pl",
-    "c": "Hialeah, FL 33012",
-    "ph": "(305) 710-6271",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "South Beach Brewing Company",
     "a": "210 11  St",
     "c": "Miami Beach, FL 33139",
@@ -13185,15 +12600,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Just Salad Store 78",
-    "a": "3737 Nw 87 Ave Unit 102",
-    "c": "Doral, FL 33166",
-    "ph": "(314) 277-3575",
-    "reg": "Doral",
-    "seats": 35,
-    "rank": "SEAT"
-  },
-  {
     "n": "Puerquito Relleno",
     "a": "2750 W 68 St Ste133",
     "c": "Hialeah, FL 33016",
@@ -13210,15 +12616,6 @@
     "reg": "Miami Beach",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Mister 1111",
-    "a": "1130 Normandy Dr",
-    "c": "Miami Beach, FL 33141",
-    "ph": "(786) 830-4177",
-    "reg": "Miami Beach",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "El Rey De La Salchipapa Miami",
@@ -13311,15 +12708,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Papos 305",
-    "a": "610 W 29 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "(305) 300-6848",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "CATR"
-  },
-  {
     "n": "Lucky Cat",
     "a": "119 Washington Ave Ste 100",
     "c": "Miami Beach, FL 33139",
@@ -13336,15 +12724,6 @@
     "reg": "North Miami Beach",
     "seats": 40,
     "rank": "SEAT"
-  },
-  {
-    "n": "Tropical Oasis #2",
-    "a": "1340 Ne 163 St",
-    "c": "North Miami Beach, FL 33162",
-    "ph": "(786) 304-9723",
-    "reg": "North Miami Beach",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "Mki Flagler",
@@ -13560,15 +12939,6 @@
     "ph": "(786) 784-2406",
     "reg": "Miami Beach",
     "seats": 18,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Zaza Pizzeria Restaurant #2",
-    "a": "2360 W 68 St",
-    "c": "Hialeah, FL 33016",
-    "ph": "(305) 297-4435",
-    "reg": "Hialeah",
-    "seats": 21,
     "rank": "SEAT"
   },
   {
@@ -13986,15 +13356,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Tauro Pizza #2",
-    "a": "240 E 1 Ave Unit 121-123",
-    "c": "Hialeah, FL 33010",
-    "ph": "(305) 677-3770",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Mozzico",
     "a": "1616 Washington Ave",
     "c": "Miami Beach, FL 33139",
@@ -14044,15 +13405,6 @@
     "a": "2093 Palm Ave",
     "c": "Hialeah , FL 33010",
     "ph": "(305) 934-3463",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
-    "n": "Grand Slam Burger 305",
-    "a": "14001 Nw 112 Ave",
-    "c": "Hialeah, FL 33018",
-    "ph": "(786) 436-6767",
     "reg": "Hialeah",
     "seats": 0,
     "rank": "MFDV"
@@ -14497,15 +13849,6 @@
     "reg": "Coral Gables",
     "seats": 20,
     "rank": "SEAT"
-  },
-  {
-    "n": "Ritero Burger Corp #2",
-    "a": "4300 Nw 72 Ave",
-    "c": "Doral, FL 33166",
-    "ph": "(786) 622-4617",
-    "reg": "Doral",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "Ollie Sports Bar & Grill",
@@ -15453,15 +14796,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Fleisch 41",
-    "a": "726 41 St",
-    "c": "Miami Beach, FL 33140",
-    "ph": "(917) 586-8894",
-    "reg": "Miami Beach",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Romelia Sacramento",
     "a": "1071 E 28 St",
     "c": "Hialeah, FL 33013",
@@ -15505,15 +14839,6 @@
     "reg": "Coral Gables",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Charley'S Philly Steaks #2313",
-    "a": "1425 Ne 163 St",
-    "c": "North Miami Beach, FL 33162",
-    "ph": "(954) 665-1830",
-    "reg": "North Miami Beach",
-    "seats": 38,
-    "rank": "SEAT"
   },
   {
     "n": "Buccan Coral Gables",
@@ -15703,15 +15028,6 @@
     "reg": "North Miami",
     "seats": 22,
     "rank": "SEAT"
-  },
-  {
-    "n": "Juice & Jave Express Inc, Llc #2",
-    "a": "21125  Yacht Club Drive",
-    "c": "Aventura, FL 33180",
-    "ph": "(786) 323-0190",
-    "reg": "Aventura",
-    "seats": 0,
-    "rank": "NOST"
   },
   {
     "n": "Spitfire",
@@ -15973,15 +15289,6 @@
     "reg": "North Miami Beach",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Kitchen 57",
-    "a": "7301 Sw 57 Ct Ste 100",
-    "c": "South Miami, FL 33143",
-    "ph": "(786) 238-7179",
-    "reg": "South Miami",
-    "seats": 152,
-    "rank": "SEAT"
   },
   {
     "n": "Crema Gourmet Espresso Bar",
@@ -16323,15 +15630,6 @@
     "ph": "N/A",
     "reg": "Coral Gables",
     "seats": 150,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Charleys Philly Steaks 2311",
-    "a": "5851 Nw 177 St",
-    "c": "Hialeah, FL 33015",
-    "ph": "(954) 665-1830",
-    "reg": "Hialeah",
-    "seats": 39,
     "rank": "SEAT"
   },
   {
@@ -16956,15 +16254,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch #1067",
-    "a": "10850 Nw 41 Ste 490",
-    "c": "Doral, FL 33178",
-    "ph": "(941) 907-9800",
-    "reg": "Doral",
-    "seats": 154,
-    "rank": "SEAT"
-  },
-  {
     "n": "Ny Roma Pizza",
     "a": "8237 Sw 124 St",
     "c": "Pinecrest, FL 33156",
@@ -17061,15 +16350,6 @@
     "ph": "(305) 789-2763",
     "reg": "Doral",
     "seats": 39,
-    "rank": "SEAT"
-  },
-  {
-    "n": "La Brasa North Miami 125",
-    "a": "1803 Ne 123 St",
-    "c": "North Miami, FL 33181",
-    "ph": "(954) 736-7879",
-    "reg": "North Miami",
-    "seats": 22,
     "rank": "SEAT"
   },
   {
@@ -17305,15 +16585,6 @@
     "reg": "Coral Gables",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Papo'S 305",
-    "a": "610 W 29 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "(786) 355-2421",
-    "reg": "Hialeah",
-    "seats": 30,
-    "rank": "SEAT"
   },
   {
     "n": "Tripping Animals Brewing.",
@@ -18234,24 +17505,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Shake Shack #1536",
-    "a": "10800 Nw 41 St",
-    "c": "Doral, FL 33178",
-    "ph": "(305) 842-5326",
-    "reg": "Doral",
-    "seats": 68,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Trebol Pizzeria 12 Y 29",
-    "a": "1167 W 29 St",
-    "c": "Hialeah, FL 33012",
-    "ph": "(786) 738-3026",
-    "reg": "Hialeah",
-    "seats": 29,
-    "rank": "SEAT"
-  },
-  {
     "n": "Delicias 5 Stars Food Services Corp",
     "a": "2225 W 76 St",
     "c": "Hialeah, FL 33016",
@@ -19071,15 +18324,6 @@
     "rank": "MFDV"
   },
   {
-    "n": "La Cocada 305",
-    "a": "9552 Nw 41 St ",
-    "c": "Doral , FL 33178",
-    "ph": "(786) 769-2024",
-    "reg": "Doral",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Mayamero Street Food",
     "a": "18280 W Dixie Hwy",
     "c": "North Miami Beach, FL 33160",
@@ -19593,15 +18837,6 @@
     "rank": "MFDV"
   },
   {
-    "n": "Mr. Burger 305",
-    "a": "2225 W 76 St",
-    "c": "Hialeah, FL 33016",
-    "ph": "(305) 890-8198",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Granizadas Mucha",
     "a": "2225 W 76 St",
     "c": "Hialeah, FL 33016",
@@ -19861,15 +19096,6 @@
     "reg": "North Miami Beach",
     "seats": 74,
     "rank": "SEAT"
-  },
-  {
-    "n": "El Churrascaso Grill #4",
-    "a": "1255 W 46 St Unit 27",
-    "c": "Hialeah, FL 33012",
-    "ph": "(786) 742-4718",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "Petisco Family Food Truck",
@@ -20239,15 +19465,6 @@
     "reg": "Hialeah",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Sumaq Fine Peruvian Cuisine & Bar41-294",
-    "a": "9459-9461 S Dixie Hwy Ste 52-53",
-    "c": "Pinecrest, FL 33156",
-    "ph": "(786) 524-1080",
-    "reg": "Pinecrest",
-    "seats": 97,
-    "rank": "SEAT"
   },
   {
     "n": "Mister O1 Extraordinary Pizza",
@@ -20628,15 +19845,6 @@
     "rank": "MFDV"
   },
   {
-    "n": "Fivechef #2",
-    "a": "5436 Nw 163 St",
-    "c": "Miami Lakes, FL 33014",
-    "ph": "(786) 975-5683",
-    "reg": "Miami Lakes",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Wow Li Gou",
     "a": "39 Ne 167 St",
     "c": "North Miami Beach, FL 33162",
@@ -20814,15 +20022,6 @@
     "ph": "N/A",
     "reg": "Miami Beach",
     "seats": 38,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bro'S Hot Chicken #3",
-    "a": "10899 Sw 4 St #101",
-    "c": "Sweetwater, FL 33174",
-    "ph": "(786) 303-5430",
-    "reg": "Sweetwater",
-    "seats": 40,
     "rank": "SEAT"
   },
   {
@@ -21267,15 +20466,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Cajita Cubana 239",
-    "a": "2225 W 76 St",
-    "c": "Hialeah, FL 33016",
-    "ph": "(786) 431-6196",
-    "reg": "Hialeah",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Choco Boom Cafe",
     "a": "1501 Ne 167 St",
     "c": "North Miami Beach, FL 33162",
@@ -21292,15 +20482,6 @@
     "reg": "Doral",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Vicente'S Pizzeria #1",
-    "a": "17043 S Dixie Hwy",
-    "c": "Palmetto Bay, FL 33157",
-    "ph": "(772) 971-0343",
-    "reg": "Palmetto Bay",
-    "seats": 36,
-    "rank": "SEAT"
   },
   {
     "n": "Amatis",
@@ -21681,15 +20862,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Amf Pembroke Pines #311",
-    "a": "1940 N University Dr",
-    "c": "Pembroke Pines, FL 33024-3606",
-    "ph": "(954) 963-0500",
-    "reg": "Pembroke Pines",
-    "seats": 180,
-    "rank": "SEAT"
-  },
-  {
     "n": "Jayno'S Pizza",
     "a": "5272 N Sr 7",
     "c": "Fort Lauderdale, FL 33319",
@@ -21948,24 +21120,6 @@
     "ph": "(954) 763-2777",
     "reg": "Fort Lauderdale",
     "seats": 282,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Flanigan'S Seafood Bar & Grill #40",
-    "a": "5450 N Sr 7",
-    "c": "Fort Lauderdale, FL 33319",
-    "ph": "(954) 733-0500",
-    "reg": "Fort Lauderdale",
-    "seats": 150,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Flanigan'S Seafood Bar & Grill #22",
-    "a": "2600 W Davie Blvd",
-    "c": "Fort Lauderdale, FL 33312-3030",
-    "ph": "(954) 584-4611",
-    "reg": "Fort Lauderdale",
-    "seats": 60,
     "rank": "SEAT"
   },
   {
@@ -22248,24 +21402,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Little Caesar Pizza #227",
-    "a": "4515 N Pine Is Rd",
-    "c": "Sunrise, FL 33351-5321",
-    "ph": "(954) 493-9883",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Little Caesar Pizza #233",
-    "a": "3229 W Davie Blvd",
-    "c": "Fort Lauderdale, FL 33312-2755",
-    "ph": "(954) 792-7111",
-    "reg": "Fort Lauderdale",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Sea Level",
     "a": "3030 Holiday Dr",
     "c": "Fort Lauderdale, FL 33316-2414",
@@ -22428,69 +21564,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #20",
-    "a": "800 University Dr",
-    "c": "Coral Springs, FL 33071-7015",
-    "ph": "(954) 345-7922",
-    "reg": "Coral Springs",
-    "seats": 117,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical 31",
-    "a": "12961 W Sunrise Blvd",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 845-0132",
-    "reg": "Sunrise",
-    "seats": 136,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #35",
-    "a": "1819 S Federal Hwy",
-    "c": "Fort Lauderdale, FL 33316-2944",
-    "ph": "(954) 764-2141",
-    "reg": "Fort Lauderdale",
-    "seats": 94,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #12",
-    "a": "2011 E Oakland Park Blvd",
-    "c": "Fort Lauderdale, FL 33306-1105",
-    "ph": "(954) 564-6220",
-    "reg": "Fort Lauderdale",
-    "seats": 128,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #13",
-    "a": "8299 Pines Blvd",
-    "c": "Pembroke Pines, FL 33024-6711",
-    "ph": "(954) 431-4362",
-    "reg": "Pembroke Pines",
-    "seats": 96,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #16",
-    "a": "2390 S University Dr",
-    "c": "Davie, FL 33324-5816",
-    "ph": "(954) 474-8040",
-    "reg": "Davie",
-    "seats": 96,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #27",
-    "a": "11429 Pines Blvd",
-    "c": "Pembroke Pines, FL 33026-4103",
-    "ph": "(954) 430-2250",
-    "reg": "Pembroke Pines",
-    "seats": 115,
-    "rank": "SEAT"
-  },
-  {
     "n": "Times Square Pizza",
     "a": "2304 E Oakland Park Blvd",
     "c": "Fort Lauderdale, FL 33306-1101",
@@ -22515,15 +21588,6 @@
     "ph": "(954) 565-2338",
     "reg": "Fort Lauderdale",
     "seats": 284,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Anthonys Runway 84",
-    "a": "330 St Rd 84",
-    "c": "Fort Lauderdale, FL 33315",
-    "ph": "(954) 467-8484",
-    "reg": "Fort Lauderdale",
-    "seats": 210,
     "rank": "SEAT"
   },
   {
@@ -22632,15 +21696,6 @@
     "ph": "(954) 792-4713",
     "reg": "Fort Lauderdale",
     "seats": 140,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Las Vegas Restaurant #5",
-    "a": "2807 E Oakland Park Blvd",
-    "c": "Fort Lauderdale, FL 33306-1813",
-    "ph": "(954) 564-1370",
-    "reg": "Fort Lauderdale",
-    "seats": 105,
     "rank": "SEAT"
   },
   {
@@ -22833,24 +21888,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Cracker Barrel #268",
-    "a": "1960 Nw 150 Ave",
-    "c": "Pembroke Pines, FL 33028",
-    "ph": "(954) 704-4020",
-    "reg": "Pembroke Pines",
-    "seats": 184,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Cracker Barrel #380",
-    "a": "1250 Sw 11 Way",
-    "c": "Deerfield Beach, FL 33441",
-    "ph": "(954) 426-4100",
-    "reg": "Deerfield Beach",
-    "seats": 184,
-    "rank": "SEAT"
-  },
-  {
     "n": "Brazilian Depot (Dba) Food Crt",
     "a": "700 Sw 10 St #19",
     "c": "Deerfield Beach, FL 33441",
@@ -22887,105 +21924,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Einstein Bros Bagel #777",
-    "a": "1499 Se 17 St",
-    "c": "Fort Lauderdale, FL 33316",
-    "ph": "(954) 463-1717",
-    "reg": "Fort Lauderdale",
-    "seats": 30,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel #775",
-    "a": "6256 N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33308",
-    "ph": "(954) 771-3993",
-    "reg": "Fort Lauderdale",
-    "seats": 58,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel #3160",
-    "a": "8500 W Broward Blvd",
-    "c": "Plantation, FL 33324",
-    "ph": "(954) 370-3105",
-    "reg": "Plantation",
-    "seats": 46,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel #3672",
-    "a": "19 N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33301",
-    "ph": "(954) 462-1132",
-    "reg": "Fort Lauderdale",
-    "seats": 45,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagels #779",
-    "a": "18301 Pines Blvd",
-    "c": "Pembroke Pines, FL 33029",
-    "ph": "(954) 437-1315",
-    "reg": "Pembroke Pines",
-    "seats": 30,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel #2326",
-    "a": "310 N University Dr",
-    "c": "Pembroke Pines, FL 33024",
-    "ph": "(954) 433-2322",
-    "reg": "Pembroke Pines",
-    "seats": 55,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel #1597",
-    "a": "3200 N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33306",
-    "ph": "(954) 565-2155",
-    "reg": "Fort Lauderdale",
-    "seats": 62,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel #2300",
-    "a": "1356 Weston Rd",
-    "c": "Weston, FL 33326",
-    "ph": "(954) 384-6479",
-    "reg": "Weston",
-    "seats": 35,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagel Cafe #1218",
-    "a": "2465 University Dr",
-    "c": "Coral Springs, FL 33065",
-    "ph": "(954) 341-6505",
-    "reg": "Coral Springs",
-    "seats": 60,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagels #2281",
-    "a": "340 N Park Rd",
-    "c": "Hollywood, FL 33021",
-    "ph": "(954) 893-8701",
-    "reg": "Hollywood",
-    "seats": 54,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Einstein Bros Bagels #847",
-    "a": "989 Nob Hill Rd",
-    "c": "Plantation, FL 33324",
-    "ph": "(954) 423-3030",
-    "reg": "Plantation",
-    "seats": 30,
-    "rank": "SEAT"
-  },
-  {
     "n": "Siciliano'S Frozen Custard",
     "a": "5917 Hollywood Blvd",
     "c": "Hollywood, FL 33021-6328",
@@ -23010,15 +21948,6 @@
     "ph": "(954) 660-0470",
     "reg": "Sunrise",
     "seats": 125,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Cici'S Pizza #300",
-    "a": "3912 W Hillsboro Blvd",
-    "c": "Deerfield Beach, FL 33442",
-    "ph": "(954) 570-9900",
-    "reg": "Deerfield Beach",
-    "seats": 176,
     "rank": "SEAT"
   },
   {
@@ -23235,78 +22164,6 @@
     "ph": "(954) 972-3300",
     "reg": "Pompano Beach",
     "seats": 25,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #40",
-    "a": "5720 Wiles Rd",
-    "c": "Coral Springs, FL 33067",
-    "ph": "(954) 757-7839",
-    "reg": "Coral Springs",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #42",
-    "a": "5549 Sheridan St",
-    "c": "Hollywood, FL 33021-3347",
-    "ph": "(954) 987-8976",
-    "reg": "Hollywood",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #45",
-    "a": "2675 N University Dr",
-    "c": "Sunrise, FL 33322",
-    "ph": "(954) 741-5238",
-    "reg": "Sunrise",
-    "seats": 94,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #53",
-    "a": "3051 West  Commercial Blvd",
-    "c": "Fort Lauderdale, FL 33309",
-    "ph": "(954) 484-5273",
-    "reg": "Fort Lauderdale",
-    "seats": 78,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #56",
-    "a": "14880 Sw 31 St",
-    "c": "Miramar, FL 33027",
-    "ph": "(954) 431-7998",
-    "reg": "Miramar",
-    "seats": 78,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical 43",
-    "a": "2633 Weston Rd",
-    "c": "Weston, FL 33331",
-    "ph": "(954) 389-2572",
-    "reg": "Weston",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical Operations #64",
-    "a": "1051 S Military Trl",
-    "c": "Deerfield Beach, FL 33442-7643",
-    "ph": "(954) 596-1722",
-    "reg": "Deerfield Beach",
-    "seats": 78,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #63",
-    "a": "2450 W Atlantic Blvd",
-    "c": "Pompano Beach, FL 33069",
-    "ph": "(954) 977-6996",
-    "reg": "Pompano Beach",
-    "seats": 78,
     "rank": "SEAT"
   },
   {
@@ -23922,15 +22779,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Einstein Bros Bagel #845",
-    "a": "9795 Glades Rd",
-    "c": "Boca Raton, FL 33434",
-    "ph": "(561) 477-0667",
-    "reg": "Boca Raton",
-    "seats": 58,
-    "rank": "SEAT"
-  },
-  {
     "n": "Gleneagles Grill Room",
     "a": "7667 Victory Ln",
     "c": "Delray Beach, FL 33446",
@@ -23985,24 +22833,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Pollo Tropical #58",
-    "a": "950 Linton Blvd",
-    "c": "Delray Beach, FL 33444",
-    "ph": "(561) 276-9334",
-    "reg": "Delray Beach",
-    "seats": 78,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #57",
-    "a": "2499 N Federal Hwy",
-    "c": "Boca Raton, FL 33431-7713",
-    "ph": "(561) 402-8829",
-    "reg": "Boca Raton",
-    "seats": 74,
-    "rank": "SEAT"
-  },
-  {
     "n": "Polo Club - Bistro Kitchen",
     "a": "5400 Champion Blvd",
     "c": "Boca Raton, FL 33496",
@@ -24054,15 +22884,6 @@
     "ph": "(954) 765-1460",
     "reg": "Fort Lauderdale",
     "seats": 100,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Mc Donalds #26690",
-    "a": "300 Sunrise Blvd",
-    "c": "Fort Lauderdale, FL 33304",
-    "ph": "(954) 763-5543",
-    "reg": "Fort Lauderdale",
-    "seats": 92,
     "rank": "SEAT"
   },
   {
@@ -24345,15 +23166,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Char Hut 84",
-    "a": "9000 Sr 84",
-    "c": "Davie, FL 33324",
-    "ph": "(954) 447-9312",
-    "reg": "Davie",
-    "seats": 117,
-    "rank": "SEAT"
-  },
-  {
     "n": "Offerdahl'S Off-The-Grill",
     "a": "2274 Weston Rd",
     "c": "Weston, FL 33326",
@@ -24369,15 +23181,6 @@
     "ph": "(954) 462-0088",
     "reg": "Fort Lauderdale",
     "seats": 99,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Flipper'S Cinema 10",
-    "a": "7001 Taft St",
-    "c": "Hollywood, FL 33024",
-    "ph": "(954) 981-7721",
-    "reg": "Hollywood",
-    "seats": 40,
     "rank": "SEAT"
   },
   {
@@ -24585,15 +23388,6 @@
     "ph": "(954) 437-3602",
     "reg": "Miramar",
     "seats": 258,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #69",
-    "a": "300 N Sr 7",
-    "c": "Plantation, FL 33317",
-    "ph": "(305) 670-7696",
-    "reg": "Plantation",
-    "seats": 86,
     "rank": "SEAT"
   },
   {
@@ -25029,15 +23823,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch #0083",
-    "a": "12594 W Sunrise Blvd",
-    "c": "Sunrise, FL 33323",
-    "ph": "(941) 500-1987",
-    "reg": "Sunrise",
-    "seats": 120,
-    "rank": "SEAT"
-  },
-  {
     "n": "Gary Rack'S Farmhouse Kitchen",
     "a": "399 Se Mizner Blvd",
     "c": "Boca Raton, FL 33432",
@@ -25416,15 +24201,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical Restaurant #90",
-    "a": "5780 S University Dr Bay 1-101",
-    "c": "Davie, FL 33328",
-    "ph": "(954) 200-7999",
-    "reg": "Davie",
-    "seats": 82,
-    "rank": "SEAT"
-  },
-  {
     "n": "Las Carnitas Inc",
     "a": "3221 W Davie Blvd",
     "c": "Fort Lauderdale, FL 33312",
@@ -25587,15 +24363,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Miami Subs 195",
-    "a": "11501 Pines Blvd",
-    "c": "Pembroke Pines, FL 33026",
-    "ph": "(954) 430-8181",
-    "reg": "Pembroke Pines",
-    "seats": 98,
-    "rank": "SEAT"
-  },
-  {
     "n": "La Granja Parrilla",
     "a": "17001 Pines Blvd",
     "c": "Pembroke Pines, FL 33027",
@@ -25692,87 +24459,6 @@
     "ph": "(954) 430-1725",
     "reg": "Pembroke Pines",
     "seats": 100,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-87",
-    "a": "7990 Miramar Pkwy",
-    "c": "Miramar, FL 33023-5878",
-    "ph": "(954) 981-7489",
-    "reg": "Miramar",
-    "seats": 92,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes - #36-155",
-    "a": "1101 N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33304",
-    "ph": "(954) 567-9687",
-    "reg": "Fort Lauderdale",
-    "seats": 138,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-67",
-    "a": "1395 Pompano Pkwy",
-    "c": "Pompano Beach, FL 33069-4313",
-    "ph": "(954) 917-3463",
-    "reg": "Pompano Beach",
-    "seats": 84,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes-36#184",
-    "a": "11302 Miramar Pkwy",
-    "c": "Miramar, FL 33025",
-    "ph": "(954) 431-3866",
-    "reg": "Miramar",
-    "seats": 124,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-41",
-    "a": "2454 N University Dr",
-    "c": "Sunrise, FL 33322-3088",
-    "ph": "(954) 749-4545",
-    "reg": "Sunrise",
-    "seats": 84,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-72",
-    "a": "2305 N University Dr",
-    "c": "Pembroke Pines, FL 33024-3617",
-    "ph": "(954) 964-4397",
-    "reg": "Pembroke Pines",
-    "seats": 96,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-94",
-    "a": "851 W Sample Rd",
-    "c": "Pompano Beach, FL 33064-2002",
-    "ph": "(954) 941-0311",
-    "reg": "Pompano Beach",
-    "seats": 96,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-79",
-    "a": "3101 W Oakland Park Blvd",
-    "c": "Oakland Park, FL 33311-1229",
-    "ph": "(954) 731-8249",
-    "reg": "Oakland Park",
-    "seats": 110,
-    "rank": "SEAT"
-  },
-  {
-    "n": "International House Of Pancakes 36-08",
-    "a": "2754 Hollywood Blvd",
-    "c": "Hollywood, FL 33020",
-    "ph": "(954) 923-3011",
-    "reg": "Hollywood",
-    "seats": 84,
     "rank": "SEAT"
   },
   {
@@ -26001,15 +24687,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Miami Subs #22",
-    "a": "317 W Atlantic Blvd",
-    "c": "Pompano Beach, FL 33060",
-    "ph": "(954) 946-0101",
-    "reg": "Pompano Beach",
-    "seats": 60,
-    "rank": "SEAT"
-  },
-  {
     "n": "Stork'S Bakery",
     "a": "2505 Ne 15 Ave",
     "c": "Wilton Manors, FL 33305",
@@ -26064,15 +24741,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Haagen-Dazs 609",
-    "a": "17 S Ft Lauderdale Bch Blvd R-120",
-    "c": "Fort Lauderdale, FL 33316",
-    "ph": "(954) 522-5336",
-    "reg": "Fort Lauderdale",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Tom Sawyer Restaurant & Pastry Shop",
     "a": "1759 Nw 2 Ave",
     "c": "Boca Raton, FL 33432",
@@ -26115,15 +24783,6 @@
     "ph": "(954) 341-9622",
     "reg": "Coral Springs",
     "seats": 222,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Mc Donalds L/C #009-2321",
-    "a": "11200 Sr 84",
-    "c": "Davie, FL 33325",
-    "ph": "(954) 426-5144",
-    "reg": "Davie",
-    "seats": 52,
     "rank": "SEAT"
   },
   {
@@ -26280,15 +24939,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Kfc #11",
-    "a": "990 W Commercial Blvd",
-    "c": "Fort Lauderdale, FL 33309",
-    "ph": "(954) 920-1802",
-    "reg": "Fort Lauderdale",
-    "seats": 50,
-    "rank": "SEAT"
-  },
-  {
     "n": "City Fish Market",
     "a": "7940 Glades Rd",
     "c": "Boca Raton, FL 33434",
@@ -26349,15 +24999,6 @@
     "ph": "(561) 455-7490",
     "reg": "Delray Beach",
     "seats": 122,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Village Tavern #203",
-    "a": "14555 Sw 2 St",
-    "c": "Pembroke Pines, FL 33027",
-    "ph": "(954) 874-1001",
-    "reg": "Pembroke Pines",
-    "seats": 306,
     "rank": "SEAT"
   },
   {
@@ -26457,15 +25098,6 @@
     "ph": "(954) 561-4304",
     "reg": "Oakland Park",
     "seats": 40,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Kentucky Fried Chicken #12",
-    "a": "4200 Sw 64 Ave",
-    "c": "Davie, FL 33314",
-    "ph": "(954) 920-1802",
-    "reg": "Davie",
-    "seats": 64,
     "rank": "SEAT"
   },
   {
@@ -27027,24 +25659,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Tap 42",
-    "a": "1411 S Andrews Ave",
-    "c": "Fort Lauderdale, FL 33316",
-    "ph": "(954) 760-4281",
-    "reg": "Fort Lauderdale",
-    "seats": 242,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Wyndham Deerfield Beach Resort #00450",
-    "a": "2096 Ne 2 St",
-    "c": "Deerfield Beach, FL 33441",
-    "ph": "(954) 428-2850",
-    "reg": "Deerfield Beach",
-    "seats": 215,
-    "rank": "SEAT"
-  },
-  {
     "n": "Molina'S Bakery",
     "a": "2708 N University Dr",
     "c": "Sunrise, FL 33322",
@@ -27180,15 +25794,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Deck 84",
-    "a": "840 E Atlantic Ave",
-    "c": "Delray Beach, FL 33444",
-    "ph": "(561) 655-8484",
-    "reg": "Delray Beach",
-    "seats": 247,
-    "rank": "SEAT"
-  },
-  {
     "n": "Crocante",
     "a": "2708 N University Dr",
     "c": "Coral Springs, FL 33065",
@@ -27240,15 +25845,6 @@
     "ph": "(954) 481-8338",
     "reg": "Deerfield Beach",
     "seats": 30,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bj'S Restaurant & Brewhouse 510",
-    "a": "12100 Pines Blvd",
-    "c": "Pembroke Pines, FL 33025",
-    "ph": "(954) 430-3545",
-    "reg": "Pembroke Pines",
-    "seats": 332,
     "rank": "SEAT"
   },
   {
@@ -27747,15 +26343,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Hungry Howie'S Pizza & Subs #3028",
-    "a": "6649 Taft St",
-    "c": "Hollywood, FL 33024",
-    "ph": "(954) 967-2777",
-    "reg": "Hollywood",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Alnatour Restaurant",
     "a": "1787 N University Dr",
     "c": "Plantation, FL 33322",
@@ -27781,15 +26368,6 @@
     "reg": "Boca Raton",
     "seats": 204,
     "rank": "SEAT"
-  },
-  {
-    "n": "Ps 561",
-    "a": "14860 S Military Trail",
-    "c": "Delray Beach, FL 33484",
-    "ph": "(561) 983-1200",
-    "reg": "Delray Beach",
-    "seats": 0,
-    "rank": "MFDV"
   },
   {
     "n": "American Social",
@@ -28341,15 +26919,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #82",
-    "a": "21170 St Andrews Blvd",
-    "c": "Boca Raton, FL 33433",
-    "ph": "(561) 544-8875",
-    "reg": "Boca Raton",
-    "seats": 120,
-    "rank": "SEAT"
-  },
-  {
     "n": "Tim Finnegans",
     "a": "2885 S Federal Hwy",
     "c": "Delray Beach, FL 33483",
@@ -28521,15 +27090,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #117",
-    "a": "2320 N Federal Hwy",
-    "c": "Pompano Beach, FL 33062",
-    "ph": "(407) 948-0839",
-    "reg": "Pompano Beach",
-    "seats": 73,
-    "rank": "SEAT"
-  },
-  {
     "n": "Sky Thai Sushi",
     "a": "350 E Las Olas Blvd Ste 130",
     "c": "Fort Lauderdale, FL 33301",
@@ -28575,30 +27135,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #120",
-    "a": "20401 Sr 7 Ste G5-7",
-    "c": "Boca Raton, FL 33498",
-    "ph": "(561) 883-0088",
-    "reg": "Boca Raton",
-    "seats": 128,
-    "rank": "SEAT"
-  },
-  {
     "n": "Pan Pa Ya",
     "a": "2362 Weston Rd",
     "c": "Weston, FL 33326",
     "ph": "(954) 306-0600",
     "reg": "Weston",
     "seats": 24,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Oceans 234",
-    "a": "234 N Ocean Blvd",
-    "c": "Deerfield Beach, FL 33441",
-    "ph": "954635712",
-    "reg": "Deerfield Beach",
-    "seats": 220,
     "rank": "SEAT"
   },
   {
@@ -29178,30 +27720,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #133",
-    "a": "3644 W Hillsboro Blvd",
-    "c": "Deerfield Beach, FL 33442",
-    "ph": "(941) 500-1987",
-    "reg": "Deerfield Beach",
-    "seats": 114,
-    "rank": "SEAT"
-  },
-  {
     "n": "El Rinconcito Salvadoerno 2",
     "a": "2708 W Atlantic Blvd",
     "c": "Pompano Beach, FL 33069",
     "ph": "(954) 558-6100",
     "reg": "Pompano Beach",
     "seats": 35,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #131",
-    "a": "1780 Sheridan St",
-    "c": "Hollywood, FL 33020",
-    "ph": "(954) 927-4732",
-    "reg": "Hollywood",
-    "seats": 73,
     "rank": "SEAT"
   },
   {
@@ -29301,15 +27825,6 @@
     "ph": "(954) 630-2856",
     "reg": "Fort Lauderdale",
     "seats": 55,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #138",
-    "a": "14683 S Military Trl",
-    "c": "Delray Beach, FL 33484",
-    "ph": "(561) 495-5225",
-    "reg": "Delray Beach",
-    "seats": 73,
     "rank": "SEAT"
   },
   {
@@ -29484,15 +27999,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Charley'S Grilled Subs #347",
-    "a": "12801 W Sunrise Blvd #843",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-1461",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Mikan Japanese Restaurant, Llc",
     "a": "12502 Pines Blvd",
     "c": "Pembroke Pines, FL 33027",
@@ -29572,15 +28078,6 @@
     "reg": "Fort Lauderdale",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Havana 1957",
-    "a": "14571 Sw 5 St",
-    "c": "Pembroke Pines, FL 33027",
-    "ph": "(305) 604-9060",
-    "reg": "Pembroke Pines",
-    "seats": 248,
-    "rank": "SEAT"
   },
   {
     "n": "Suan Thai & Japanese Restaurant",
@@ -30015,15 +28512,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #151",
-    "a": "311 S. State Road 7",
-    "c": "Hollywood, FL 33021",
-    "ph": "(407) 948-0839",
-    "reg": "Hollywood",
-    "seats": 73,
-    "rank": "SEAT"
-  },
-  {
     "n": "Slice",
     "a": "2600 Glades Cir Ste 1100",
     "c": "Weston, FL 33327",
@@ -30177,15 +28665,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Strike 10",
-    "a": "801 Silks Run #1505",
-    "c": "Hallandale Beach, FL 33009",
-    "ph": "(786) 546-0191",
-    "reg": "Hallandale Beach",
-    "seats": 243,
-    "rank": "SEAT"
-  },
-  {
     "n": "Village Cafe",
     "a": "551 Breakers Ave",
     "c": "Fort Lauderdale, FL 33304",
@@ -30309,15 +28788,6 @@
     "ph": "(954) 709-6470",
     "reg": "Fort Lauderdale",
     "seats": 15,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pei Wei Fresh Kitchen #0256",
-    "a": "9982 Glades Rd Ste G5",
-    "c": "Boca Raton, FL 33434",
-    "ph": "(561) 483-7067",
-    "reg": "Boca Raton",
-    "seats": 68,
     "rank": "SEAT"
   },
   {
@@ -30537,15 +29007,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Tap 42",
-    "a": "5050 Town Center Circle Suite 247",
-    "c": "Boca Raton, FL 33486",
-    "ph": "(407) 730-5571",
-    "reg": "Boca Raton",
-    "seats": 131,
-    "rank": "SEAT"
-  },
-  {
     "n": "Nakorn Roll & Bowl",
     "a": "5341 Sheridan Street",
     "c": "Hollywood, FL 33021",
@@ -30663,15 +29124,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Ceviche 595",
-    "a": "1910 S University Dr Suite 5",
-    "c": "Davie, FL 33324",
-    "ph": "(305) 310-6354",
-    "reg": "Davie",
-    "seats": 50,
-    "rank": "SEAT"
-  },
-  {
     "n": "Super Arepa Cooper City Llc",
     "a": "9489 Sheridan St",
     "c": "Cooper City, FL 33024",
@@ -30744,15 +29196,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #168",
-    "a": "21852 S Sr 7",
-    "c": "Boca Raton, FL 33428",
-    "ph": "(561) 477-2618",
-    "reg": "Boca Raton",
-    "seats": 73,
-    "rank": "SEAT"
-  },
-  {
     "n": "Outside The Box Food Truck",
     "a": "1647 W Mcnab Rd",
     "c": "Pompano Beach, FL 33069",
@@ -30795,15 +29238,6 @@
     "ph": "(954) 921-7988",
     "reg": "Hollywood",
     "seats": 60,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pei Wei Fresh Kitchen #0262",
-    "a": "3112 University Dr Bldg A",
-    "c": "Coral Springs, FL 33065",
-    "ph": "(972) 373-8000",
-    "reg": "Coral Springs",
-    "seats": 103,
     "rank": "SEAT"
   },
   {
@@ -31023,48 +29457,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "Capital Grille #8019",
-    "a": "2430 E Sunrise Blvd",
-    "c": "Fort Lauderdale, FL 33304",
-    "ph": "(954) 446-2000",
-    "reg": "Fort Lauderdale",
-    "seats": 228,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Capital Grille #8037",
-    "a": "6000 W Glades Rd",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(561) 368-1077",
-    "reg": "Boca Raton",
-    "seats": 237,
-    "rank": "SEAT"
-  },
-  {
     "n": "Mason Jar Cafe Ii",
     "a": "3000 N Federal Hwy 6-7",
     "c": "Fort Lauderdale, FL 33306",
     "ph": "(954) 568-4100",
     "reg": "Fort Lauderdale",
     "seats": 60,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Seasons 52 #4502",
-    "a": "2428 E Sunrise Blvd",
-    "c": "Fort Lauderdale, FL 33304",
-    "ph": "(954) 537-1052",
-    "reg": "Fort Lauderdale",
-    "seats": 241,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Seasons 52 #4504",
-    "a": "2300 Nw Executive Center Dr",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(561) 998-9952",
-    "reg": "Boca Raton",
-    "seats": 245,
     "rank": "SEAT"
   },
   {
@@ -31347,15 +29745,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical 199",
-    "a": "5552 N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33308",
-    "ph": "(954) 426-5144",
-    "reg": "Fort Lauderdale",
-    "seats": 72,
-    "rank": "SEAT"
-  },
-  {
     "n": "El Colombiano",
     "a": "2221 N Commerce Pkwy",
     "c": "Weston, FL 33326",
@@ -31572,15 +29961,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #223",
-    "a": "4713 S Flamingo Rd",
-    "c": "Cooper City, FL 33330",
-    "ph": "(954) 375-4077",
-    "reg": "Cooper City",
-    "seats": 72,
-    "rank": "SEAT"
-  },
-  {
     "n": "Pizza Machine",
     "a": "8955 Taft St",
     "c": "Pembroke Pines, FL 33024",
@@ -31662,15 +30042,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pollo Tropical #235",
-    "a": "5450 N University Dr",
-    "c": "Coral Springs, FL 33067",
-    "ph": "(954) 426-5144",
-    "reg": "Coral Springs",
-    "seats": 72,
-    "rank": "SEAT"
-  },
-  {
     "n": "Mchaig Inc",
     "a": "2410 W Broward Blvd",
     "c": "Fort Lauderdale, FL 33312",
@@ -31743,15 +30114,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Asia #1",
-    "a": "9409 Sheridan St",
-    "c": "Hollywood, FL 33024",
-    "ph": "(954) 885-8326",
-    "reg": "Hollywood",
-    "seats": 20,
-    "rank": "SEAT"
-  },
-  {
     "n": "China Stars",
     "a": "19 S Pompano Pkwy",
     "c": "Pompano Beach, FL 33069",
@@ -31821,15 +30183,6 @@
     "ph": "(954) 567-8038",
     "reg": "Fort Lauderdale",
     "seats": 100,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Ebar Club 13",
-    "a": "209-215 Sw 2nd St",
-    "c": "Fort Lauderdale, FL 33301",
-    "ph": "(954) 768-0840",
-    "reg": "Fort Lauderdale",
-    "seats": 68,
     "rank": "SEAT"
   },
   {
@@ -31947,15 +30300,6 @@
     "ph": "(954) 752-4500",
     "reg": "Coral Springs",
     "seats": 200,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #227",
-    "a": "50 N University Dr",
-    "c": "Plantation, FL 33324",
-    "ph": "(305) 671-1217",
-    "reg": "Plantation",
-    "seats": 72,
     "rank": "SEAT"
   },
   {
@@ -32136,15 +30480,6 @@
     "ph": "(954) 760-5637",
     "reg": "Fort Lauderdale",
     "seats": 90,
-    "rank": "SEAT"
-  },
-  {
-    "n": "First Watch Restaurant #175",
-    "a": "7620 Peters Rd",
-    "c": "Plantation, FL 33324",
-    "ph": "(941) 500-1987",
-    "reg": "Plantation",
-    "seats": 132,
     "rank": "SEAT"
   },
   {
@@ -32577,15 +30912,6 @@
     "ph": "(561) 379-7902",
     "reg": "Fort Lauderdale",
     "seats": 22,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Moe'S Southwest Grill # 38",
-    "a": "2257 S University Dr",
-    "c": "Davie, FL 33324",
-    "ph": "(954) 332-5200",
-    "reg": "Davie",
-    "seats": 80,
     "rank": "SEAT"
   },
   {
@@ -33039,15 +31365,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #278",
-    "a": "3257 Hollywood Blvd",
-    "c": "Hollywood, FL 33021",
-    "ph": "(941) 500-1987",
-    "reg": "Hollywood",
-    "seats": 132,
-    "rank": "SEAT"
-  },
-  {
     "n": "Burgerfi",
     "a": "2810 Weston Road",
     "c": "Weston, FL 33331",
@@ -33291,15 +31608,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Gumbo Twist, Kitchen 5007",
-    "a": "5007 N Hiatus Rd",
-    "c": "Sunrise, FL 33351",
-    "ph": "(954) 793-6117",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "CATR"
-  },
-  {
     "n": "Begformore",
     "a": "19 Se 5 Ave",
     "c": "Delray Beach, FL 33483",
@@ -33498,15 +31806,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Seasons 52 #4548",
-    "a": "1862 Sawgrass Mills Cir",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 846-0052",
-    "reg": "Sunrise",
-    "seats": 303,
-    "rank": "SEAT"
-  },
-  {
     "n": "La Casserola",
     "a": "6941 Sw 196 Ave #9",
     "c": "Pembroke Pines, FL 33332",
@@ -33594,15 +31893,6 @@
     "ph": "(954) 315-1460",
     "reg": "Fort Lauderdale",
     "seats": 135,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Moe'S Southwest Grill #41",
-    "a": "2200 W Glades Rd #1200b",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(678) 858-3662",
-    "reg": "Boca Raton",
-    "seats": 80,
     "rank": "SEAT"
   },
   {
@@ -34137,15 +32427,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #280",
-    "a": "160 S Compass Way",
-    "c": "Dania Beach, FL 33004",
-    "ph": "(941) 500-1987",
-    "reg": "Dania Beach",
-    "seats": 121,
-    "rank": "SEAT"
-  },
-  {
     "n": "Jerk Grill Express",
     "a": "8000 W Broward Blvd Suite 800",
     "c": "Plantation, FL 33388",
@@ -34251,15 +32532,6 @@
     "ph": "(954) 247-9149",
     "reg": "Pompano Beach",
     "seats": 104,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pollo Tropical #249",
-    "a": "16951 Miramar Pkwy",
-    "c": "Miramar, FL 33027",
-    "ph": "(954) 551-2848",
-    "reg": "Miramar",
-    "seats": 68,
     "rank": "SEAT"
   },
   {
@@ -34548,15 +32820,6 @@
     "ph": "(754) 226-3763",
     "reg": "Coral Springs",
     "seats": 20,
-    "rank": "SEAT"
-  },
-  {
-    "n": "First Watch Restaurant #191",
-    "a": "640 Linton Blvd, Ste 310",
-    "c": "Delray Beach, FL 33444",
-    "ph": "(941) 907-9800",
-    "reg": "Delray Beach",
-    "seats": 144,
     "rank": "SEAT"
   },
   {
@@ -34947,115 +33210,7 @@
     "rank": "NOST"
   },
   {
-    "n": "In Seat #1 & #2",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Sin Bin",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #108",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #115",
-    "a": "1 Panther Parkway",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #119",
-    "a": "1 Panther Parkway",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #129",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #130",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #405",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #407",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #416",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #419",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #428",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Stand #430",
     "a": "1 Panther Pkwy",
     "c": "Sunrise, FL 33323",
     "ph": "(954) 835-7000",
@@ -35071,24 +33226,6 @@
     "reg": "Sunrise",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Stand #105",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Club 954",
-    "a": "1 Panther Pkwy",
-    "c": "Sunrise, FL 33323",
-    "ph": "(954) 835-7000",
-    "reg": "Sunrise",
-    "seats": 300,
-    "rank": "SEAT"
   },
   {
     "n": "Patagonia Nahuen Cafe",
@@ -35242,15 +33379,6 @@
     "reg": "Hollywood",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Uptown 66",
-    "a": "801 N Federal Hwy  Units 109-110",
-    "c": "Hallandale Beach, FL 33009",
-    "ph": "(754) 263-3294",
-    "reg": "Hallandale Beach",
-    "seats": 151,
-    "rank": "SEAT"
   },
   {
     "n": "La Joya Latina Restorant",
@@ -35775,15 +33903,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Argentinian Empanadas On The Grill #2",
-    "a": "12801 W Sunrise Blvd Suite 738",
-    "c": "Sunrise, FL 33323",
-    "ph": "(305) 780-9095",
-    "reg": "Sunrise",
-    "seats": 40,
-    "rank": "SEAT"
-  },
-  {
     "n": "Boca Suites Deerfield Beach",
     "a": "1040 E  Newport Center Dr",
     "c": "Deerfield Beach, FL 33442",
@@ -36006,15 +34125,6 @@
     "ph": "(352) 255-7149",
     "reg": "Sunrise",
     "seats": 230,
-    "rank": "SEAT"
-  },
-  {
-    "n": "First Watch Restaurant #277",
-    "a": "12598 Pines Blvd Ste 103",
-    "c": "Pembroke Pines, FL 33027",
-    "ph": "(954) 589-1295",
-    "reg": "Pembroke Pines",
-    "seats": 138,
     "rank": "SEAT"
   },
   {
@@ -36675,24 +34785,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #304",
-    "a": "1750 North University Drive Ste 126",
-    "c": "Coral Springs, FL 33071",
-    "ph": "(754) 812-6121",
-    "reg": "Coral Springs",
-    "seats": 152,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Just Salad Store #41",
-    "a": "1732 N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33305",
-    "ph": "(212) 244-1111",
-    "reg": "Fort Lauderdale",
-    "seats": 60,
-    "rank": "SEAT"
-  },
-  {
     "n": "Adam & Joe Know Lunch",
     "a": "6355 N Andrews Ave",
     "c": "Fort Lauderdale, FL 33309",
@@ -37260,15 +35352,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Coral Cay - Bk 8297",
-    "a": "10000  W Oakland Park Blvd",
-    "c": "Sunrise, FL 33351",
-    "ph": "(954) 749-9933",
-    "reg": "Sunrise",
-    "seats": 68,
-    "rank": "SEAT"
-  },
-  {
     "n": "Mr Shrimp Cajun Kitchen",
     "a": "11009 Pines Blvd",
     "c": "Pembroke Pines, FL 33026",
@@ -37392,15 +35475,6 @@
     "ph": "(754) 551-6360",
     "reg": "Plantation",
     "seats": 133,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Embarcadero 41",
-    "a": "189 Nw 136 Ave Ste C",
-    "c": "Sunrise, FL 33325",
-    "ph": "(754) 217-0502",
-    "reg": "Sunrise",
-    "seats": 37,
     "rank": "SEAT"
   },
   {
@@ -37663,24 +35737,6 @@
     "reg": "Sunrise",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Ddbr Pc#332745",
-    "a": "14305 Miramar Pkway",
-    "c": "Miramar, FL 33027",
-    "ph": "N/A",
-    "reg": "Miramar",
-    "seats": 22,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Ddbr Pc#339926",
-    "a": "7003 Taft St",
-    "c": "Hollywood, FL 33024",
-    "ph": "N/A",
-    "reg": "Hollywood",
-    "seats": 26,
-    "rank": "SEAT"
   },
   {
     "n": "Urban Air Adventure Park",
@@ -38259,15 +36315,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Pizza Lovers #2",
-    "a": "1860 N Nob Hill Rd",
-    "c": "Plantation, FL 33322",
-    "ph": "(786) 612-0600",
-    "reg": "Plantation",
-    "seats": 46,
-    "rank": "SEAT"
-  },
-  {
     "n": "Luv'N Oven Pizza, Pasta And Wings",
     "a": "9410 Griffin Rd",
     "c": "Cooper City, FL 33328",
@@ -38772,30 +36819,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "Taqueria El Paisa #3",
-    "a": "1951 N Pine Island Rd",
-    "c": "Plantation, FL 33322",
-    "ph": "N/A",
-    "reg": "Plantation",
-    "seats": 66,
-    "rank": "SEAT"
-  },
-  {
     "n": "Wahbi Sabi Restaurant",
     "a": "10032 Pines Blvd",
     "c": "Pembroke Pines, FL 33024",
     "ph": "(754) 400-8085",
     "reg": "Pembroke Pines",
     "seats": 68,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Tacowa #1",
-    "a": "159 E Palmetto Park Rd",
-    "c": "Boca Raton, FL 33432",
-    "ph": "(561) 617-1500",
-    "reg": "Boca Raton",
-    "seats": 30,
     "rank": "SEAT"
   },
   {
@@ -39321,15 +37350,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Marco'S Pizza #8200",
-    "a": "10050 Nw 7 St",
-    "c": "Pembroke Pines, FL 33024",
-    "ph": "(754) 231-2600",
-    "reg": "Pembroke Pines",
-    "seats": 12,
-    "rank": "SEAT"
-  },
-  {
     "n": "Pascal & Cathy Bakery",
     "a": "998 N Federal Highway Suite 4-5",
     "c": "Pompano Beach, FL 33060",
@@ -39381,15 +37401,6 @@
     "ph": "(561) 441-0822",
     "reg": "Delray Beach",
     "seats": 150,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Tropical Smoothie Cafe Fl 240",
-    "a": "16024 Pines Blvd Ste 103",
-    "c": "Pembroke Pines, FL 33027",
-    "ph": "(954) 805-5073",
-    "reg": "Pembroke Pines",
-    "seats": 14,
     "rank": "SEAT"
   },
   {
@@ -39663,15 +37674,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch Restaurant #0487",
-    "a": "16030 Pines Blvd Ste P203",
-    "c": "Pembroke Pines, FL 33027",
-    "ph": "(941) 907-9800",
-    "reg": "Pembroke Pines",
-    "seats": 150,
-    "rank": "SEAT"
-  },
-  {
     "n": "Crisp N Grill",
     "a": "2659 W Atlantic Blvd",
     "c": "Pompano Beach, FL 33069",
@@ -39753,15 +37755,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Las Carnitas Food Truck #3",
-    "a": "3221 Davie Blvd",
-    "c": "Fort Lauderdale, FL 33312",
-    "ph": "(954) 600-6148",
-    "reg": "Fort Lauderdale",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Orion Fresh Mediterranean",
     "a": "1654 N Federal Hwy",
     "c": "Boca Raton, FL 33432",
@@ -39807,15 +37800,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Tacos Wey 561",
-    "a": "2298 N Dixie Hwy",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(561) 317-3352",
-    "reg": "Boca Raton",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Juicy Crab",
     "a": "6245 N Andrews Ave",
     "c": "Fort Lauderdale, FL 33309",
@@ -39832,15 +37816,6 @@
     "reg": "Pompano Beach",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Avocados Food 02",
-    "a": "12801 W Sunrise Blvd Unit 184",
-    "c": "Sunrise, FL 33323",
-    "ph": "(786) 449-5962",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
   },
   {
     "n": "Talkin Tacos",
@@ -41013,15 +38988,6 @@
     "rank": "MFDV"
   },
   {
-    "n": "Embarcadero 41",
-    "a": "3111 N University Dr Ste 113",
-    "c": "Coral Springs, FL 33065",
-    "ph": "N/A",
-    "reg": "Coral Springs",
-    "seats": 51,
-    "rank": "SEAT"
-  },
-  {
     "n": "Revelry",
     "a": "223-227 South Federal Highway",
     "c": "Pompano Beach, FL 33062",
@@ -41607,15 +39573,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "First Watch #0489",
-    "a": "5022 Champion Blvd",
-    "c": "Boca Raton, FL 33496",
-    "ph": "(561) 354-7358",
-    "reg": "Boca Raton",
-    "seats": 151,
-    "rank": "SEAT"
-  },
-  {
     "n": "Wilder",
     "a": "701 E Broward Blvd Unit J",
     "c": "Fort Lauderdale, FL 33301",
@@ -41658,15 +39615,6 @@
     "ph": "(954) 386-8786",
     "reg": "Fort Lauderdale",
     "seats": 100,
-    "rank": "SEAT"
-  },
-  {
-    "n": "First Watch #658",
-    "a": "3900 N University Dr",
-    "c": "Cooper City, FL 33024",
-    "ph": "(754) 315-1253",
-    "reg": "Cooper City",
-    "seats": 165,
     "rank": "SEAT"
   },
   {
@@ -41740,15 +39688,6 @@
     "reg": "Delray Beach",
     "seats": 28,
     "rank": "SEAT"
-  },
-  {
-    "n": "Miami Grill Express #290",
-    "a": "263 W Hillsboro Blvd",
-    "c": "Deerfield Beach, FL 33441",
-    "ph": "(305) 915-2733",
-    "reg": "Deerfield Beach",
-    "seats": 0,
-    "rank": "NOST"
   },
   {
     "n": "Patio Bar And Pizza",
@@ -41884,15 +39823,6 @@
     "reg": "Plantation",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Bohemian Latin Grill #2",
-    "a": "1199 E Commercial Blvd",
-    "c": "Oakland Park, FL 33334",
-    "ph": "(954) 826-3749",
-    "reg": "Oakland Park",
-    "seats": 30,
-    "rank": "SEAT"
   },
   {
     "n": "Tasty Mini Donuts 11 Fye Flavors Smackinn",
@@ -42084,15 +40014,6 @@
     "rank": "CATR"
   },
   {
-    "n": "Embarcadero 41",
-    "a": "8188 Glades Rd",
-    "c": "Boca Raton, FL 33434",
-    "ph": "(561) 413-8940",
-    "reg": "Boca Raton",
-    "seats": 150,
-    "rank": "SEAT"
-  },
-  {
     "n": "Borsalino Cafe",
     "a": "1045 S University Dr",
     "c": "Plantation, FL 33324",
@@ -42198,15 +40119,6 @@
     "ph": "(754) 206-3058",
     "reg": "Davie",
     "seats": 65,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Raising Cane'S Restaurant 0697",
-    "a": "2501 N Federal Hwy",
-    "c": "Pompano Beach, FL 33064",
-    "ph": "N/A",
-    "reg": "Pompano Beach",
-    "seats": 102,
     "rank": "SEAT"
   },
   {
@@ -42354,24 +40266,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Shake Shack #1440",
-    "a": "6000 Glades Rd Spc #1164c",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(561) 489-4056",
-    "reg": "Boca Raton",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Tropical Smoothie Cafe #Fl-371",
-    "a": "17940 N Military Trl Ste 600",
-    "c": "Boca Raton, FL 33496",
-    "ph": "(561) 352-3087",
-    "reg": "Boca Raton",
-    "seats": 21,
-    "rank": "SEAT"
-  },
-  {
     "n": "Meet Chongqing Hot Pot",
     "a": "6820 Stirling Rd",
     "c": "Hollywood, FL 33024",
@@ -42405,15 +40299,6 @@
     "ph": "(954) 446-6446",
     "reg": "Hallandale Beach",
     "seats": 20,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Pho 46",
-    "a": "116 N 46 Ave",
-    "c": "Hollywood, FL 33021",
-    "ph": "(954) 404-7851",
-    "reg": "Hollywood",
-    "seats": 27,
     "rank": "SEAT"
   },
   {
@@ -45459,15 +43344,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Shanghai 818",
-    "a": "7860 Glades Rd Ste 105",
-    "c": "Boca Raton, FL 33434",
-    "ph": "(215) 500-6697",
-    "reg": "Boca Raton",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
     "n": "Mia Rosebud",
     "a": "150 E Palmetto Park Rd",
     "c": "Boca Raton, FL 33432",
@@ -45601,15 +43477,6 @@
     "reg": "Plantation",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Cabana 28",
-    "a": "6351 N Andrews Ave",
-    "c": "Fort Lauderdale, FL 33309",
-    "ph": "(305) 342-9387",
-    "reg": "Fort Lauderdale",
-    "seats": 71,
-    "rank": "SEAT"
   },
   {
     "n": "Red Sea Restaurant",
@@ -46242,15 +44109,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Juici Patties #0072",
-    "a": "5830 Hollywood Blvd",
-    "c": "Hollywood, FL 33021",
-    "ph": "(954) 607-0602",
-    "reg": "Hollywood",
-    "seats": 16,
-    "rank": "SEAT"
-  },
-  {
     "n": "Wagyu House",
     "a": "601 N Federal Hwy Ste 113",
     "c": "Hallandale Beach, FL 33009",
@@ -46267,15 +44125,6 @@
     "reg": "Hollywood",
     "seats": 0,
     "rank": "MFDV"
-  },
-  {
-    "n": "Tacos Wey 561",
-    "a": "690 Glades Rd",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(561) 887-3140",
-    "reg": "Boca Raton",
-    "seats": 0,
-    "rank": "NOST"
   },
   {
     "n": "Emmy Beth'S Ice Cream",
@@ -46355,15 +44204,6 @@
     "c": "Fort Lauderdale, FL 33301",
     "ph": "(305) 510-6524",
     "reg": "Fort Lauderdale",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
-    "n": "Mr Q'S 504",
-    "a": "7 Sw 22 Ave",
-    "c": "Pompano Beach, FL 33062",
-    "ph": "(954) 681-0120",
-    "reg": "Pompano Beach",
     "seats": 0,
     "rank": "MFDV"
   },
@@ -47628,15 +45468,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Charley'S Philly Steaks #2591",
-    "a": "151 Sw 184 Ave",
-    "c": "Pembroke Pines, FL 33029",
-    "ph": "(954) 665-1830",
-    "reg": "Pembroke Pines",
-    "seats": 22,
-    "rank": "SEAT"
-  },
-  {
     "n": "Fri-Ya",
     "a": "3901 Riverland Rd",
     "c": "Fort Lauderdale, FL 33312",
@@ -47817,15 +45648,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Tipico Rinconcito Colombiano #2",
-    "a": "3801 N University Dr Ste 306",
-    "c": "Sunrise, FL 33351",
-    "ph": "(646) 299-3634",
-    "reg": "Sunrise",
-    "seats": 200,
-    "rank": "SEAT"
-  },
-  {
     "n": "Oasis Cafe On The Green",
     "a": "701 Sw Flamingo West Dr",
     "c": "Pembroke Pines, FL 33027",
@@ -47859,15 +45681,6 @@
     "ph": "(305) 961-1181",
     "reg": "Sunrise",
     "seats": 234,
-    "rank": "SEAT"
-  },
-  {
-    "n": "First Watch #1050",
-    "a": "1716 N University Dr",
-    "c": "Plantation, FL 33322",
-    "ph": "(941) 907-9800",
-    "reg": "Plantation",
-    "seats": 154,
     "rank": "SEAT"
   },
   {
@@ -48119,15 +45932,6 @@
     "c": "Sunrise, FL 33351",
     "ph": "(614) 852-7802",
     "reg": "Sunrise",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
-    "n": "Fusion 524",
-    "a": "1002 E Newport Center Dr",
-    "c": "Deerfield Beach, FL 33442",
-    "ph": "(561) 452-2495",
-    "reg": "Deerfield Beach",
     "seats": 0,
     "rank": "MFDV"
   },
@@ -48480,33 +46284,6 @@
     "ph": "(561) 865-9487",
     "reg": "Delray Beach",
     "seats": 168,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Flanigan'S #19",
-    "a": "2505 N University Dr",
-    "c": "Hollywood, FL 33024",
-    "ph": "(954) 964-3793",
-    "reg": "Hollywood",
-    "seats": 256,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Just Salad Store #90",
-    "a": "1714 N University Dr",
-    "c": "Plantation, FL 33322",
-    "ph": "(314) 277-3575",
-    "reg": "Plantation",
-    "seats": 46,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Just Salad Store #96",
-    "a": "1841 S. Federal Hwy #400",
-    "c": "Delray Beach, FL 33483",
-    "ph": "(561) 303-0446",
-    "reg": "Delray Beach",
-    "seats": 48,
     "rank": "SEAT"
   },
   {
@@ -48978,24 +46755,6 @@
     "rank": "CATR"
   },
   {
-    "n": "Bk#25955",
-    "a": "9420 W Commercial Blvd",
-    "c": "Sunrise, FL 33351",
-    "ph": "(954) 625-9301",
-    "reg": "Sunrise",
-    "seats": 60,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#5406",
-    "a": "5000 South Sr 7",
-    "c": "Fort Lauderdale, FL 33314-5742",
-    "ph": "(954) 663-2614",
-    "reg": "Fort Lauderdale",
-    "seats": 99,
-    "rank": "SEAT"
-  },
-  {
     "n": "Darios Fort Lauderdale",
     "a": "110 Se 6 St Ste 110",
     "c": "Fort Lauderdale, FL 33301",
@@ -49038,60 +46797,6 @@
     "ph": "(561) 501-5862",
     "reg": "Delray Beach",
     "seats": 28,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#10900",
-    "a": "1255 S Nob Hill Rd",
-    "c": "Davie, FL 33324-4224",
-    "ph": "(954) 663-1760",
-    "reg": "Davie",
-    "seats": 96,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#5921",
-    "a": "3 Weston Rd",
-    "c": "Sunrise, FL 33326-1110",
-    "ph": "(954) 663-1760",
-    "reg": "Sunrise",
-    "seats": 98,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#73",
-    "a": "3951 Sw 64  Ave",
-    "c": "Davie, FL 33314-3536",
-    "ph": "(954) 625-9301",
-    "reg": "Davie",
-    "seats": 60,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#17855",
-    "a": "5556  N Federal Hwy",
-    "c": "Fort Lauderdale, FL 33308-3238",
-    "ph": "(954) 625-9301",
-    "reg": "Fort Lauderdale",
-    "seats": 54,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#48",
-    "a": "2315 Hollywood Blvd",
-    "c": "Hollywood, FL 33020-6708",
-    "ph": "(954) 663-1760",
-    "reg": "Hollywood",
-    "seats": 52,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#6000",
-    "a": "6350 Nw 9 Ave",
-    "c": "Fort Lauderdale, FL 33309-2020",
-    "ph": "(954) 663-1760",
-    "reg": "Fort Lauderdale",
-    "seats": 92,
     "rank": "SEAT"
   },
   {
@@ -49176,42 +46881,6 @@
     "rank": "MFDV"
   },
   {
-    "n": "Bk#6999",
-    "a": "12801 W  Sunrise Blvd Ste 855",
-    "c": "Sunrise, FL 33323-4006",
-    "ph": "(954) 663-1760",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Bk#7053",
-    "a": "12801 W  Sunrise Blvd Ste 217",
-    "c": "Sunrise, FL 33323-4002",
-    "ph": "(954) 663-1760",
-    "reg": "Sunrise",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
-    "n": "Bk#7400",
-    "a": "1855 N Flamingo Rd",
-    "c": "Sunrise, FL 33323-2129",
-    "ph": "(954) 663-1760",
-    "reg": "Sunrise",
-    "seats": 84,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#69",
-    "a": "3200 N University Dr",
-    "c": "Sunrise, FL 33351-6718",
-    "ph": "(954) 663-1760",
-    "reg": "Sunrise",
-    "seats": 75,
-    "rank": "SEAT"
-  },
-  {
     "n": "Brother G'S",
     "a": "601 Nw 22nd Rd",
     "c": "Fort Lauderdale, FL 33009",
@@ -49263,15 +46932,6 @@
     "ph": "(561) 827-4941",
     "reg": "Boca Raton",
     "seats": 40,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Tradicion Hondurena Pollos Yihre #2",
-    "a": "10231 Pines Blvd",
-    "c": "Pembroke Pines, FL 33026",
-    "ph": "(786) 669-7557",
-    "reg": "Pembroke Pines",
-    "seats": 49,
     "rank": "SEAT"
   },
   {
@@ -49653,15 +47313,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Steak 954",
-    "a": "401 N Fort Lauderdale Beach Boulev",
-    "c": "Fort Lauderdale, FL 33304",
-    "ph": "N/A",
-    "reg": "Fort Lauderdale",
-    "seats": 255,
-    "rank": "SEAT"
-  },
-  {
     "n": "Stella'S /Eggrollz",
     "a": "603 Ne 13th Street",
     "c": "Fort Lauderdale, FL 33304",
@@ -49950,30 +47601,12 @@
     "rank": "SEAT"
   },
   {
-    "n": "La Pupusa Factory #2",
-    "a": "11368  Miramar Pkwy",
-    "c": "Miramar, FL 33025",
-    "ph": "(305) 300-2862",
-    "reg": "Miramar",
-    "seats": 50,
-    "rank": "SEAT"
-  },
-  {
     "n": "Pilar Coffee Bar & Iced Treats",
     "a": "1500 Se 3 Ct 104",
     "c": "Deerfield Beach, FL 33441",
     "ph": "(561) 300-5343",
     "reg": "Deerfield Beach",
     "seats": 56,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Salumeria 104",
-    "a": "1368-1370 Weston Rd",
-    "c": "Weston, FL 33326",
-    "ph": "(954) 306-0037",
-    "reg": "Weston",
-    "seats": 120,
     "rank": "SEAT"
   },
   {
@@ -50001,15 +47634,6 @@
     "ph": "(954) 544-9978",
     "reg": "Hollywood",
     "seats": 120,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Just Salad Store 101",
-    "a": "4608 N University Dr",
-    "c": "Coral Springs, FL 33076",
-    "ph": "(314) 277-3575",
-    "reg": "Coral Springs",
-    "seats": 37,
     "rank": "SEAT"
   },
   {
@@ -50130,15 +47754,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Haagen-Dazs 475",
-    "a": "8000 W Broward Blvd 505",
-    "c": "Plantation, FL 33388",
-    "ph": "(561) 324-1020",
-    "reg": "Plantation",
-    "seats": 0,
-    "rank": "NOST"
-  },
-  {
     "n": "Haagen Dazs",
     "a": "801 Silks Run Ste 1570",
     "c": "Hallandale Beach, FL 33009",
@@ -50146,15 +47761,6 @@
     "reg": "Hallandale Beach",
     "seats": 20,
     "rank": "SEAT"
-  },
-  {
-    "n": "Haagen-Dazs 474",
-    "a": "814 N Broadwalk",
-    "c": "Hollywood, FL 33019",
-    "ph": "(954) 923-8888",
-    "reg": "Hollywood",
-    "seats": 0,
-    "rank": "NOST"
   },
   {
     "n": "Kan'S Thai Kitchen",
@@ -51813,15 +49419,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Table 165",
-    "a": "165 Ne 2  Ave",
-    "c": "Delray Beach, FL 33444",
-    "ph": "(702) 338-8455",
-    "reg": "Delray Beach",
-    "seats": 60,
-    "rank": "SEAT"
-  },
-  {
     "n": "La Dulce Vida",
     "a": "8881 Pembroke Rd",
     "c": "Pembroke Pines, FL 33025",
@@ -51981,15 +49578,6 @@
     "ph": "N/A",
     "reg": "Pembroke Pines",
     "seats": 46,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Embarcadero 41",
-    "a": "350 Se 2 St Suite Cu2a",
-    "c": "Fort Lauderdale, FL 33301",
-    "ph": "(954) 368-7661",
-    "reg": "Fort Lauderdale",
-    "seats": 142,
     "rank": "SEAT"
   },
   {
@@ -52854,15 +50442,6 @@
     "ph": "(786) 874-0347",
     "reg": "Pembroke Pines",
     "seats": 120,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Shisha 954",
-    "a": "2221 N Federal Hwy",
-    "c": "Hollywood, FL 33020",
-    "ph": "(305) 216-6634",
-    "reg": "Hollywood",
-    "seats": 140,
     "rank": "SEAT"
   },
   {
@@ -53793,15 +51372,6 @@
     "rank": "NOST"
   },
   {
-    "n": "Pei Wei Asian Kitchen #0318",
-    "a": "1911 S Federal Hwy Suite 206",
-    "c": "Delray Beach, FL 33483",
-    "ph": "(972) 457-9300",
-    "reg": "Delray Beach",
-    "seats": 36,
-    "rank": "SEAT"
-  },
-  {
     "n": "Through The Vine",
     "a": "444 Ne 7 St Unit 1a",
     "c": "Fort Lauderdale, FL 33304",
@@ -54171,15 +51741,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Provident Market 1937",
-    "a": "900 W Sistrunk Blvd",
-    "c": "Fort Lauderdale, FL 33311",
-    "ph": "(954) 445-3399",
-    "reg": "Fort Lauderdale",
-    "seats": 149,
-    "rank": "SEAT"
-  },
-  {
     "n": "Florida Room",
     "a": "891 Sw 34 St",
     "c": "Fort Lauderdale, FL 33315",
@@ -54213,15 +51774,6 @@
     "ph": "(954) 326-8338",
     "reg": "Miramar",
     "seats": 44,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Shake Shack #1732",
-    "a": "1560 S Federal Hwy",
-    "c": "Delray Beach, FL 33483",
-    "ph": "(561) 916-1245",
-    "reg": "Delray Beach",
-    "seats": 61,
     "rank": "SEAT"
   },
   {
@@ -54900,15 +52452,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "Office Kitche #2",
-    "a": "2424 N Federal Hwy Ste 153",
-    "c": "Boca Raton, FL 33431",
-    "ph": "(305) 360-3969",
-    "reg": "Boca Raton",
-    "seats": 32,
-    "rank": "SEAT"
-  },
-  {
     "n": "El Churrascaso Steakhouse Fort Lauderdale Llc",
     "a": "1611 N Federal Hwy",
     "c": "Fort Lauderdale, FL 33305",
@@ -55193,15 +52736,6 @@
     "c": "Boca Raton, FL 33498",
     "ph": "(561) 870-3189",
     "reg": "Boca Raton",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
-    "n": "El Brunch Movil 305",
-    "a": "1981 Nw 29 St Ste 105",
-    "c": "Oakland Park, FL 33311",
-    "ph": "(305) 924-3064",
-    "reg": "Oakland Park",
     "seats": 0,
     "rank": "MFDV"
   },
@@ -56194,87 +53728,6 @@
     "reg": "Davie",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Bk#14576",
-    "a": "2350 W Atlantic Blvd",
-    "c": "Pompano Beach, FL 33069",
-    "ph": "(954) 663-1760",
-    "reg": "Pompano Beach",
-    "seats": 90,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#16",
-    "a": "1445 W Sunrise Blvd",
-    "c": "Fort Lauderdale, FL 33311",
-    "ph": "(954) 663-1760",
-    "reg": "Fort Lauderdale",
-    "seats": 80,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#26446",
-    "a": "945 S State Rd 7",
-    "c": "Plantation, FL 33317",
-    "ph": "(954) 289-1862",
-    "reg": "Plantation",
-    "seats": 74,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#3639",
-    "a": "6125 W Sunrise Blvd",
-    "c": "Sunrise, FL 33313",
-    "ph": "(954) 583-0488",
-    "reg": "Sunrise",
-    "seats": 73,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#4235",
-    "a": "1701 S Federal Hwy",
-    "c": "Fort Lauderdale, FL 33316",
-    "ph": "(954) 625-9301",
-    "reg": "Fort Lauderdale",
-    "seats": 81,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#4475",
-    "a": "2200 W Sample Rd",
-    "c": "Pompano Beach, FL 33073",
-    "ph": "(954) 663-2614",
-    "reg": "Pompano Beach",
-    "seats": 71,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#5536",
-    "a": "2201 W Oakland Park Blvd",
-    "c": "Oakland Park, FL 33311",
-    "ph": "(954) 625-9301",
-    "reg": "Oakland Park",
-    "seats": 92,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#7252",
-    "a": "1150 University Dr",
-    "c": "Coral Springs, FL 33071",
-    "ph": "(954) 663-1760",
-    "reg": "Coral Springs",
-    "seats": 88,
-    "rank": "SEAT"
-  },
-  {
-    "n": "Bk#81",
-    "a": "10494 W Sample Rd",
-    "c": "Coral Springs, FL 33065",
-    "ph": "(954) 663-1760",
-    "reg": "Coral Springs",
-    "seats": 108,
-    "rank": "SEAT"
   },
   {
     "n": "Pizza",
@@ -57492,15 +54945,6 @@
     "rank": "SEAT"
   },
   {
-    "n": "El Nopal Ranchero # 2",
-    "a": "2291 N Dixie Hwy",
-    "c": "Pompano Beach, FL 33060",
-    "ph": "(561) 632-3042",
-    "reg": "Pompano Beach",
-    "seats": 0,
-    "rank": "MFDV"
-  },
-  {
     "n": "Purposely Made Coffee",
     "a": "5007 N. Hiatus Rd",
     "c": "Sunrise, FL 33351",
@@ -57553,15 +54997,6 @@
     "reg": "Sunrise",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Tacos El Papi #2",
-    "a": "1100 S Powerline Rd",
-    "c": "Pompano Beach, FL 33069",
-    "ph": "(954) 951-7799",
-    "reg": "Pompano Beach",
-    "seats": 180,
-    "rank": "SEAT"
   },
   {
     "n": "Tacocraft Taqueria And Tequila Bar",
@@ -57886,15 +55321,6 @@
     "reg": "Pompano Beach",
     "seats": 35,
     "rank": "SEAT"
-  },
-  {
-    "n": "Char'Cuties 305",
-    "a": "3400 Lakeside Dr Ste 101",
-    "c": "Miramar, FL 33027",
-    "ph": "(305) 342-0108",
-    "reg": "Miramar",
-    "seats": 0,
-    "rank": "CATR"
   },
   {
     "n": "Gj'S Elite Food Truck",
@@ -58921,15 +56347,6 @@
     "reg": "Fort Lauderdale",
     "seats": 0,
     "rank": "NOST"
-  },
-  {
-    "n": "Cali Aji #2",
-    "a": "9210 W Commercial Blvd",
-    "c": "Sunrise, FL 33351",
-    "ph": "(305) 510-7200",
-    "reg": "Sunrise",
-    "seats": 40,
-    "rank": "SEAT"
   },
   {
     "n": "La Condesa Mexican Restaurant",
