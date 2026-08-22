@@ -571,12 +571,32 @@
     .sticky-bar { position: static; }
     .table-scroll { max-height: none; overflow-x: hidden; }
     thead th { position: static; }
-    .field { width: 100%; box-sizing: border-box; }
+
+    .controls { padding: 16px; }
+    .controls-inner {
+      background: var(--surface-2);
+      border: 1px solid var(--border-strong);
+      border-radius: 18px;
+      padding: 14px;
+      gap: 10px;
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .field { width: 100%; box-sizing: border-box; border-radius: 10px; }
     #search { width: 100%; }
     .field.select { display: none; }
     .action-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; width: 100%; }
-    .action-buttons button { text-align: center; box-sizing: border-box; }
+    .action-buttons button { text-align: center; box-sizing: border-box; border-radius: 10px; }
     #clear-btn { grid-column: 1 / -1; justify-self: stretch; width: 100%; }
+    .spacer { display: none; }
+    .count {
+      order: 10;
+      width: 100%;
+      text-align: center;
+      padding-top: 10px;
+      margin-top: 2px;
+      border-top: 1px solid var(--border);
+    }
     .region-panel-inner { grid-template-columns: 1fr; }
 
     .dek { display: none; }
